@@ -1,0 +1,78 @@
+name: ⚡ MTProto Collector (TCP Mode)
+
+on:
+  # 🔥 Запуск каждые 30 минут (время UTC!)
+  schedule:
+    - cron: '*/30 * * * *'
+  # Ручной запуск через кнопку
+  workflow_dispatch:
+
+# Отменяем предыдущий запуск, если новый начался
+concurrency:
+  group: proxy-collector
+  cancel-in-progress: true
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    # Таймаут: 10 минут (TCP-режим очень быстрый)
+    timeout-minutes: 10
+    
+    steps:
+      # 1. Клонируем репозиторий
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. Настраиваем Python
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # 3. Устанавливаем ТОЛЬКО requests (Telethon не нужен!)
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      # 4. Запускаем сборщик в режиме TCP
+      - name: ⚡ Run TCP Collector
+        run: |
+          echo "🚀 Запуск в режиме TCP Ping (Быстро и безопасно)"
+          echo "   --workers 150 (много потоков)"
+          echo "   --timeout 2.0 (быстрая проверка)"
+          
+          python main.py \
+            --top 200 \
+            --workers 150 \
+            --timeout 2.0 \
+            --output-dir verified
+
+      # 5. Коммитим изменения, только если они есть
+      - name: 💾 Commit & Push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add verified/ || true
+          
+          # Проверяем, есть ли изменения
+          if ! git diff --staged --quiet; then
+            # Считаем статистику
+            STATS=$(git diff --staged --numstat | awk '{add+=$1; del+=$2} END {print "+"add" -"del}')
+            TOTAL=$(git diff --staged --numstat | awk '{sum+=$1+$2} END {print sum+0}')
+            
+            # Пушим только если изменений > 3 строк (чтобы не спамить)
+            if [ "$TOTAL" -gt 3 ]; then
+              git commit -m "🔄 Proxies updated $STATS $(date '+%H:%M UTC')"
+              git push
+              echo "✅ Pushed: $STATS"
+            else
+              echo "⏭️ Minor changes ($TOTAL lines), skipping push"
+            fi
+          else
+            echo "✅ No changes, nothing to push"
+          fi
+        shell: bash
