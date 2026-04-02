@@ -36,9 +36,24 @@ TIMEOUT     = 2.0
 MAX_WORKERS = 100
 
 RU_DOMAINS = [
-    '.ru', 'yandex', 'vk.com', 'mail.ru', 'ok.ru', 'dzen', 'rutube',
-    'sber', 'tinkoff', 'vtb', 'gosuslugi', 'nalog', 'mos.ru',
-    'ozon', 'wildberries', 'avito', 'kinopoisk', 'mts', 'beeline',
+    # Топ для Fake TLS в РФ (максимальная защита)
+    'ads.x5.ru', 'x5.ru', '5post.ru',
+    
+    # Поиск, порталы, CDN
+    'yandex', 'ya.ru', 'yandexcloud', 'static.yandex.net', 'mc.yandex.ru',
+    'mail.ru', 'cloud.mail.ru', 'vk.com', 'vk.ru', 'ok.ru', 'dzen.ru', 'rutube.ru',
+    
+    # Госуслуги и критическая инфраструктура
+    'gosuslugi.ru', 'nalog.ru', 'kremlin.ru', 'rzd.ru', 'pochta.ru', 'mos.ru',
+    
+    # Банки и финансы
+    'sberbank.ru', 'sber', 'tinkoff.ru', 't-bank.ru', 'vtb.ru', 'alfabank.ru', 'raiffeisen.ru',
+    
+    # Ритейл и популярные сервисы
+    'ozon.ru', 'wildberries.ru', 'avito.ru', 'hh.ru', 'cian.ru', 'auto.ru',
+    
+    # Телеком, хостинги, CDN
+    'mts.ru', 'beeline.ru', 'megafon.ru', 'tele2.ru', 'rostelecom.ru', 'selectel.ru', 'timeweb.com', 'reg.ru',
 ]
 
 BLOCKED = [
