@@ -19,8 +19,8 @@ except ImportError:
     print("⚠️  Telethon не установлен. Используется TCP ping (pip install telethon для MTProto)")
 
 # API ключи для Telethon (получи на my.telegram.org)
-API_ID   = None  # Вставь свой api_id
-API_HASH = None  # Вставь свой api_hash
+API_ID   = int(os.getenv('TG_API_ID', 0)) or None
+API_HASH = os.getenv('TG_API_HASH') or None
 
 SOURCES = [
     "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
