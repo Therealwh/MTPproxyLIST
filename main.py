@@ -10,15 +10,26 @@ import glob
 import argparse
 import asyncio
 
+# ─────────────────────────── Telethon Setup (FIXED) ────────────────────────────
+# ─────────────────────────── Telethon Setup (FIXED for v1.42+) ────────────────────────────
+# ─────────────────────────── Telethon Setup (Universal) ────────────────────────────
+TELETHON_AVAILABLE = False
+
 try:
     from telethon import TelegramClient
-    from telethon.connection import ConnectionTcpMTProxyRandomizedIntermediate
+    # Не импортируем классы соединений — Telethon сам подберёт нужное по типу прокси
     TELETHON_AVAILABLE = True
-except ImportError:
+    print("✅ Telethon успешно импортирован")
+    
+except ImportError as e:
     TELETHON_AVAILABLE = False
-    print("⚠️  Telethon не установлен. Используется TCP ping (pip install telethon для MTProto)")
+    print(f"⚠️  Ошибка импорта Telethon: {e}")
+    print("⚠️  Переключаюсь на режим TCP ping")
 
-# API ключи для Telethon (получи на my.telegram.org)
+
+# ─────────────────────────── API Keys (Env Vars) ────────────────────────────
+# Читаем ключи из переменных окружения (GitHub Actions / PowerShell)
+# Если переменных нет — остаются None (режим TCP)
 API_ID   = int(os.getenv('TG_API_ID', 0)) or None
 API_HASH = os.getenv('TG_API_HASH') or None
 
@@ -106,9 +117,6 @@ def get_proxies_from_text(text: str) -> set[tuple]:
     """
     Извлекает прокси из текста, поддерживая форматы:
     tg://proxy, t.me/proxy, host:port:secret и JSON.
-
-    ИСПРАВЛЕНО: в raw-строках \\s и \\d давали буквальный
-    символ '\', что ломало паттерны — теперь \s и \d.
     """
     proxies: set[tuple] = set()
 
@@ -120,7 +128,6 @@ def get_proxies_from_text(text: str) -> set[tuple]:
         if _valid_port(p):
             proxies.add((h, int(p), s))
 
-    # ИСПРАВЛЕНО: t\.me (один слэш) — корректный regex для литеральной точки
     tme_pattern = re.compile(
         r't\.me/proxy\?server=([^&\s]+)&port=(\d+)&secret=([A-Za-z0-9_=+/%-]+)',
         re.IGNORECASE,
@@ -129,7 +136,6 @@ def get_proxies_from_text(text: str) -> set[tuple]:
         if _valid_port(p):
             proxies.add((h, int(p), s))
 
-    # ИСПРАВЛЕНО: [a-zA-Z0-9.-] без лишнего слэша
     simple_pattern = re.compile(r'([a-zA-Z0-9.-]+):(\d+):([A-Fa-f0-9]{16,})')
     for h, p, s in simple_pattern.findall(text):
         if _valid_port(p):
@@ -163,7 +169,6 @@ def decode_domain(secret: str) -> str | None:
             val = int(secret[i:i + 2], 16)
             if val == 0:
                 break
-            # Только печатаемые ASCII символы
             if 32 <= val <= 126:
                 chars.append(chr(val))
         result = ''.join(chars).lower()
@@ -199,12 +204,16 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
     if _is_blocked(secret, domain):
         return None
 
+    # 🔥 Telethon сам определит тип соединения по формату прокси (секрет = MTProxy)
     client = TelegramClient(
-        f'test_{host.replace(".", "_")}_{port}', API_ID, API_HASH,
-        connection=ConnectionTcpMTProxyRandomizedIntermediate,
-        proxy=(host, int(port), secret),
+        f'test_{host.replace(".", "_")}_{port}',
+        API_ID,
+        API_HASH,
+        proxy=(host, int(port), secret),  # 3-tuple с секретом = авто-MTProxy
         timeout=8.0,
+        # ❌ НЕ указываем connection=... — пусть Telethon выберет сам
     )
+    
     try:
         start = time.time()
         await client.connect()
@@ -219,7 +228,6 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
     except Exception:
         return None
     finally:
-        # ИСПРАВЛЕНО: finally гарантирует disconnect и очистку сессии
         try:
             await client.disconnect()
         except Exception:
@@ -235,7 +243,6 @@ def check_proxy_tcp(p: tuple) -> dict | None:
         return None
 
     try:
-        # ИСПРАВЛЕНО: контекстный менеджер гарантирует закрытие сокета
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             s.settimeout(TIMEOUT)
             start = time.time()
@@ -301,15 +308,15 @@ async def main_async(args: argparse.Namespace) -> None:
     checked: int        = 0
     total:   int        = len(all_raw)
 
+    # 🔥 ПРОВЕРКА: если ключи есть И библиотека загрузилась → запускаем Telethon
     if TELETHON_AVAILABLE and API_ID and API_HASH:
-        print('🔥 Режим: Telethon MTProto\n')
+        print('🔥 Режим: Telethon MTProto (REAL check)\n')
         semaphore = asyncio.Semaphore(10)
 
         async def check_p(p: tuple) -> dict | None:
             async with semaphore:
                 return await check_proxy_telethon(p)
 
-        # as_completed даёт прогресс в реальном времени
         tasks = [asyncio.ensure_future(check_p(p)) for p in all_raw]
         for coro in asyncio.as_completed(tasks):
             result = await coro
@@ -320,7 +327,7 @@ async def main_async(args: argparse.Namespace) -> None:
                 print(f'  [{checked}/{total}] {checked / total * 100:.0f}% | найдено: {len(valid)}')
 
     else:
-        print('📡 Режим: TCP ping\n')
+        print('📡 Режим: TCP ping (fallback)\n')
         with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as exc:
             futures = {exc.submit(check_proxy_tcp, p): p for p in all_raw}
             for f in concurrent.futures.as_completed(futures):
@@ -336,7 +343,6 @@ async def main_async(args: argparse.Namespace) -> None:
     ru    = sorted([x for x in valid if x['region'] == 'ru'], key=lambda x: x['ping'])
     eu    = sorted([x for x in valid if x['region'] == 'eu'], key=lambda x: x['ping'])
 
-    # ИСПРАВЛЕНО: top_n=None вместо 0, срез [:None] == весь список
     top_n = args.top if args.top > 0 else None
 
     # ── сохранение файлов ─────────────────────────────────────────
@@ -350,7 +356,6 @@ async def main_async(args: argparse.Namespace) -> None:
 
     for filename, proxies_list in region_files.items():
         region_label = 'RU' if 'ru' in filename else 'EU' if 'eu' in filename else 'All'
-        # ИСПРАВЛЕНО: скобки вокруг тернарного оператора
         chunk = proxies_list[:top_n]
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(f'# Verified {region_label} Proxies ({len(chunk)})\n')
