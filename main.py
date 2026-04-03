@@ -16,7 +16,7 @@ from telethon.sessions import MemorySession
 TELETHON_AVAILABLE = False
 
 try:
-    from telethon import TelegramClient
+    from telethon import TelegramClient, connection
     # Не импортируем классы соединений — Telethon сам подберёт нужное по типу прокси
     TELETHON_AVAILABLE = True
     print("✅ Telethon успешно импортирован")
@@ -199,17 +199,27 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
         return None
 
     host, port, secret = p
-    domain = decode_domain(secret)
+    
+    # Опциональная проверка секрета
+    if not secret or len(secret) < 32:
+        return None
 
+    domain = decode_domain(secret)
     if _is_blocked(secret, domain):
         return None
 
-    # 🔥 Работаем в ОЗУ, без файлов на диске
+    # 🔥 ПРАВИЛЬНОЕ СОЗДАНИЕ КЛИЕНТА ДЛЯ MTPROTO:
     client = TelegramClient(
         MemorySession(),
         API_ID,
         API_HASH,
-        proxy=('mtproto', host, int(port), secret),
+        
+        # 1. Указываем специальный режим соединения для MTProxy:
+        connection=connection.ConnectionTcpMTProxyRandomizedIntermediate,
+        
+        # 2. Прокси передаём как кортеж из 3 элементов (БЕЗ префикса 'mtproto'):
+        proxy=(host, int(port), secret),
+        
         timeout=8.0,
     )
     
@@ -225,7 +235,6 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
             'domain': domain or '', 'method': 'Telethon_OK',
         }
     except Exception as e:
-        # 🔥 Логирование ошибки для отладки
         print(f"❌ {host}:{port} — {type(e).__name__}: {e}")
         return None
     finally:
