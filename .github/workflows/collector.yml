@@ -2,7 +2,7 @@ name: 🔥 MTProto Collector (Telethon Mode)
 
 on:
   schedule:
-    - cron: '40 * * * *'  # 40 минут каждого часа по UTC = 06:40 МСК
+    - cron: '*/15 * * * *'  # Каждые 15 минут по UTC
   workflow_dispatch:
 
 env:
@@ -18,7 +18,7 @@ jobs:
     permissions:
       contents: write
     
-    timeout-minutes: 45
+    timeout-minutes: 10
     
     steps:
       - name: 📥 Checkout
@@ -44,8 +44,8 @@ jobs:
           echo "🔥 Запуск в режиме Telethon (REAL MTProto check)"
           python main.py \
             --top 200 \
-            --workers 15 \
-            --timeout 10.0 \
+            --workers 150 \
+            --timeout 3.0 \
             --output-dir verified
 
       - name: 💾 Commit & Push if changed
