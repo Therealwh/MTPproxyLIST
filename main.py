@@ -204,9 +204,9 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
     if _is_blocked(secret, domain):
         return None
 
-    # 🔥 ИСПРАВЛЕНИЕ: Работаем в ОЗУ, без файлов на диске (решает sqlite3 ошибку)
+    # 🔥 Работаем в ОЗУ, без файлов на диске
     client = TelegramClient(
-        MemorySession(),  # ← БЫЛО: f'test_{host.replace(".", "_")}_{port}'
+        MemorySession(),
         API_ID,
         API_HASH,
         proxy=(host, int(port), secret),
@@ -224,8 +224,8 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
             'ping': ping, 'region': _detect_region(domain),
             'domain': domain or '', 'method': 'Telethon_OK',
         }
-        except Exception as e:
-        # 🔥 Показываем ошибку в логе для отладки
+    except Exception as e:
+        # 🔥 Логирование ошибки для отладки
         print(f"❌ {host}:{port} — {type(e).__name__}: {e}")
         return None
     finally:
