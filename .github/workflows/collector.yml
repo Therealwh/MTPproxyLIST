@@ -35,11 +35,9 @@ jobs:
       # 🔥 ПОЛНАЯ ПЕРЕУСТАНОВКА
       - name: 📦 Install dependencies
         run: |
-          # Очищаем кэш телеграма, если есть (чтобы не тянул старое)
           pip cache purge 2>/dev/null || true
-          # Ставим принудительно, игнорируя кэш, если нужно
           python -m pip install --upgrade pip
-          python -m pip install --no-cache-dir requests telethon
+          python -m pip install --no-cache-dir requests telethon pysocks
 
       # 🔍 ПРОВЕРКА: Видит ли питон телеграм?
       - name: 🔍 Verify Telethon Installation
