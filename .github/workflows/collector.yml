@@ -30,16 +30,27 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+          cache: 'pip'  # Включаем кэш pip для ускорения
 
-      # 🔥 ИСПРАВЛЕННАЯ УСТАНОВКА
+      # 🔥 ПОЛНАЯ ПЕРЕУСТАНОВКА
       - name: 📦 Install dependencies
         run: |
+          # Очищаем кэш телеграма, если есть (чтобы не тянул старое)
+          pip cache purge 2>/dev/null || true
+          # Ставим принудительно, игнорируя кэш, если нужно
           python -m pip install --upgrade pip
-          python -m pip install requests telethon
+          python -m pip install --no-cache-dir requests telethon
 
-      # 🔍 НОВЫЙ ШАГ: ПРОВЕРКА (чтобы видеть в логах, что всё ок)
-      - name: 🔍 Check Telethon
-        run: python -c "import telethon; print('✅ Telethon version:', telethon.__version__)"
+      # 🔍 ПРОВЕРКА: Видит ли питон телеграм?
+      - name: 🔍 Verify Telethon Installation
+        run: |
+          echo "Checking Python path: $(which python)"
+          echo "Checking pip path: $(which pip)"
+          python -c "import telethon; print('✅ Telethon FOUND, version:', telethon.__version__)"
+          if [ $? -ne 0 ]; then
+            echo "❌ CRITICAL: Telethon NOT found by Python!"
+            exit 1
+          fi
 
       - name: 🔥 Run Telethon Collector
         env:
@@ -49,6 +60,10 @@ jobs:
           echo "🔥 Запуск в режиме Telethon (REAL MTProto check)"
           echo "   --workers 40 (меньше потоков для стабильности)"
           echo "   --timeout 3.0 (больше времени на подключение)"
+          
+          # Передаем переменные окружения явно, на всякий случай
+          export TG_API_ID="${{ secrets.TG_API_ID }}"
+          export TG_API_HASH="${{ secrets.TG_API_HASH }}"
           
           python main.py \
             --top 200 \
