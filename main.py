@@ -9,7 +9,7 @@ import os
 import glob
 import argparse
 import asyncio
-
+from telethon.sessions import MemorySession
 # ─────────────────────────── Telethon Setup (FIXED) ────────────────────────────
 # ─────────────────────────── Telethon Setup (FIXED for v1.42+) ────────────────────────────
 # ─────────────────────────── Telethon Setup (Universal) ────────────────────────────
@@ -204,14 +204,13 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
     if _is_blocked(secret, domain):
         return None
 
-    # 🔥 Telethon сам определит тип соединения по формату прокси (секрет = MTProxy)
+    # 🔥 ИСПРАВЛЕНИЕ: Работаем в ОЗУ, без файлов на диске (решает sqlite3 ошибку)
     client = TelegramClient(
-        f'test_{host.replace(".", "_")}_{port}',
+        MemorySession(),  # ← БЫЛО: f'test_{host.replace(".", "_")}_{port}'
         API_ID,
         API_HASH,
-        proxy=(host, int(port), secret),  # 3-tuple с секретом = авто-MTProxy
+        proxy=(host, int(port), secret),
         timeout=8.0,
-        # ❌ НЕ указываем connection=... — пусть Telethon выберет сам
     )
     
     try:
@@ -232,7 +231,7 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
             await client.disconnect()
         except Exception:
             pass
-        _cleanup_telethon_session(host, port)
+        # _cleanup_telethon_session(host, port)  # ← Больше не нужна, файлы не создаются
 
 
 def check_proxy_tcp(p: tuple) -> dict | None:
