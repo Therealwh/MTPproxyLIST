@@ -224,7 +224,9 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
             'ping': ping, 'region': _detect_region(domain),
             'domain': domain or '', 'method': 'Telethon_OK',
         }
-    except Exception:
+        except Exception as e:
+        # 🔥 Показываем ошибку в логе для отладки
+        print(f"❌ {host}:{port} — {type(e).__name__}: {e}")
         return None
     finally:
         try:
