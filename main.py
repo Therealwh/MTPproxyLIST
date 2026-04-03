@@ -30,17 +30,16 @@ except ImportError as e:
 # ─────────────────────────── API Keys (Env Vars) ────────────────────────────
 # Читаем ключи из переменных окружения (GitHub Actions / PowerShell)
 # Если переменных нет — остаются None (режим TCP)
-API_ID   = int(os.getenv('TG_API_ID', 0)) or None
-API_HASH = os.getenv('TG_API_HASH') or None
+API_ID   =  None
+API_HASH =  None
 
 SOURCES = [
     "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
     "https://raw.githubusercontent.com/Argh94/Proxy-List/refs/heads/main/MTProto.txt",
     "https://raw.githubusercontent.com/Grim1313/mtproto-for-telegram/refs/heads/master/all_proxies.txt",
     "https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/mtproto.txt",
-    "https://raw.githubusercontent.com/yemixzy/proxy-projects/main/proxies/mtproto.txt",
-    "https://mtpro.xyz/api/?type=mtproto",
-    "https://mtpro.xyz/api/?type=mtproto-ru",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/refs/heads/main/protocols/mtproto.txt",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt",
 ]
 
 TIMEOUT     = 2.0
