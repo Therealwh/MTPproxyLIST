@@ -209,7 +209,7 @@ async def check_proxy_telethon(p: tuple) -> dict | None:
         MemorySession(),
         API_ID,
         API_HASH,
-        proxy=(host, int(port), secret),
+        proxy=('mtproto', host, int(port), secret),
         timeout=8.0,
     )
     
