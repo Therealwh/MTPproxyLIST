@@ -1,17 +1,13 @@
-name: ⚡ MTProto Collector (TCP Mode)
+name: 🔥 MTProto Collector (Telethon Mode)
 
 on:
-  # 🔥 ЗАПУСК КАЖДЫЕ 30 МИНУТ (время UTC)
   schedule:
     - cron: '*/30 * * * *'
-  # Ручной запуск кнопкой
   workflow_dispatch:
 
-# Убираем предупреждение про Node.js 20
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-# Отменяем старые запуски, если новый начался
 concurrency:
   group: proxy-collector
   cancel-in-progress: true
@@ -22,47 +18,52 @@ jobs:
     permissions:
       contents: write
     
+    # Telethon медленнее — даём 15 минут
+    timeout-minutes: 15
+    
     steps:
-      # 1. Скачиваем код
       - name: 📥 Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. Настраиваем Python
       - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      # 3. Устанавливаем ТОЛЬКО requests (для TCP режима)
       - name: 📦 Install dependencies
-        run: pip install requests
-
-      # 4. Запускаем сборщик (TCP, 150 потоков)
-      - name: ⚡ Run TCP Collector
         run: |
-          echo "🚀 Запуск в режиме TCP Ping"
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🔥 Run Telethon Collector
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+        run: |
+          echo "🔥 Запуск в режиме Telethon (REAL MTProto check)"
+          echo "   --workers 40 (меньше потоков для стабильности)"
+          echo "   --timeout 3.0 (больше времени на подключение)"
+          
           python main.py \
             --top 200 \
-            --workers 150 \
-            --timeout 2.0 \
+            --workers 40 \
+            --timeout 3.0 \
             --output-dir verified
 
-      # 5. Сохраняем результаты
       - name: 💾 Commit & Push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add verified/ || true
           
-          # Пушим только если есть реальные изменения
           if ! git diff --staged --quiet; then
             STATS=$(git diff --staged --numstat | awk '{add+=$1; del+=$2} END {print "+"add" -"del}')
             TOTAL=$(git diff --staged --numstat | awk '{sum+=$1+$2} END {print sum+0}')
             
             if [ "$TOTAL" -gt 3 ]; then
-              git commit -m "🔄 Proxies updated $STATS $(date '+%H:%M UTC')"
+              git commit -m "🔥 Proxies updated $STATS (Telethon) $(date '+%H:%M UTC')"
               git push
               echo "✅ Pushed: $STATS"
             else
