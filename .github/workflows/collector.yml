@@ -2,7 +2,7 @@ name: 🔥 MTProto Collector (Telethon Mode)
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '40 * * * *'  # Запуск в 40 минут каждого часа (по UTC)
   workflow_dispatch:
 
 env:
@@ -18,7 +18,10 @@ jobs:
     permissions:
       contents: write
     
-    timeout-minutes: 15
+  concurrency:
+  group: proxy-collector
+  cancel-in-progress: false  # Не прерывать, если предыдущий ещё идёт
+timeout-minutes: 50
     
     steps:
       - name: 📥 Checkout
@@ -57,7 +60,7 @@ jobs:
         run: |
           echo "🔥 Запуск в режиме Telethon (REAL MTProto check)"
           echo "   --workers 40 (меньше потоков для стабильности)"
-          echo "   --timeout 3.0 (больше времени на подключение)"
+          echo "   --timeout 10.0 (больше времени на подключение)"
           
           # Передаем переменные окружения явно, на всякий случай
           export TG_API_ID="${{ secrets.TG_API_ID }}"
@@ -66,7 +69,7 @@ jobs:
           python main.py \
             --top 200 \
             --workers 40 \
-            --timeout 3.0 \
+            --timeout 10.0 \
             --output-dir verified
 
       - name: 💾 Commit & Push if changed
