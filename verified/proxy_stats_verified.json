@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-04-20T20:56:14.897939",
-  "total_raw": 2459,
-  "total_verified": 779,
+  "timestamp_utc": "2026-04-20T21:54:52.051093",
+  "total_raw": 2463,
+  "total_verified": 786,
   "ru_count": 74,
-  "eu_count": 705,
+  "eu_count": 712,
   "telethon_used": false,
   "best_ru_ping": 0.081,
   "best_eu_ping": 0.006,
