@@ -1,51 +1,53 @@
-# Verified RU Proxies (46)
-# Updated: 2026-05-17 18:37:13 UTC
+# Verified RU Proxies (48)
+# Updated: 2026-05-17 19:53:25 UTC
 # Method: TCP_OK
-# Best ping: 0.081s
+# Best ping: 0.14s
 
-tg://proxy?server=217.60.36.37&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-tg://proxy?server=185.23.19.249&port=443&secret=ee79612e7275eee34274c5156c64072b
-tg://proxy?server=185.23.19.250&port=443&secret=ee79612e7275db1d512979b66a610452
-tg://proxy?server=2.26.98.221&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=194.50.94.98&port=443&secret=ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275
-tg://proxy?server=194.50.94.65&port=443&secret=ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275
-tg://proxy?server=89.125.188.111&port=443&secret=eeb07da4931e2e88e60496723a88462a9279616e6465782e7275
+tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
 tg://proxy?server=91.108.248.15&port=443&secret=eec42cb4ae81a45f8c81cd512599925c7c79616e6465782e7275
+tg://proxy?server=185.23.19.250&port=443&secret=ee79612e7275db1d512979b66a610452
 tg://proxy?server=2.26.82.17&port=443&secret=ee0b3153956642fb8aac38d3de418002457362657262616e6b2e7275
+tg://proxy?server=mtp.catpaws.ru&port=443&secret=ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275
 tg://proxy?server=2.26.82.18&port=443&secret=eef97e0827ad60fe2cb4a3f1ad5589928f7362657262616e6b2e7275
-tg://proxy?server=45.158.187.14&port=10092&secret=ee43fd0b58b14fb4f33e35dc93f3a929046164732e78352e7275
-tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
-tg://proxy?server=147.45.42.104&port=443&secret=ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d
-tg://proxy?server=ru.vip.mambabot.net&port=443&secret=eeeb1d43653f046c18653280379226bee17275747562652e7275
-tg://proxy?server=concord.servervless.ru&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
-tg://proxy?server=138.124.127.179&port=443&secret=eef3c8fea5c83c9c837e5e292b2025afd8766b2e636f6d
-tg://proxy?server=germany.tgproxysokol.pro&port=8443&secret=ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275
-tg://proxy?server=104.253.43.94&port=443&secret=ee48158585a131fc19a62c263035654f8179616e6465782e7275
-tg://proxy?server=138.124.127.154&port=443&secret=ee0c480abc71136dd1c5dadf918e32cea7766b2e636f6d
-tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275
-tg://proxy?server=217.60.2.195&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-tg://proxy?server=91.193.25.110&port=443&secret=eeee0efbf80e240e4bfb348d2c22e739da647a656e2e7275
-tg://proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275
-tg://proxy?server=138.124.127.157&port=443&secret=ee776ed6e05e7099a53f923bdcc99f659e766b2e636f6d
-tg://proxy?server=104.253.43.74&port=443&secret=ee05e177309b81b87d379e9f454c49374f79616e6465782e7275
+tg://proxy?server=194.50.94.65&port=443&secret=ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275
+tg://proxy?server=194.50.94.98&port=443&secret=ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275
+tg://proxy?server=89.125.188.111&port=443&secret=eeb07da4931e2e88e60496723a88462a9279616e6465782e7275
 tg://proxy?server=94.125.103.42&port=8443&secret=eed7e9b4fa2c6108e593bd571a82f3c0e46d61696c2e7275
+tg://proxy?server=2.26.98.209&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
+tg://proxy?server=147.45.42.104&port=443&secret=ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d
+tg://proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275
+tg://proxy?server=46.226.166.175&port=443&secret=eec7e4c3d2dfb3c8a1107a8f684ac3b6d7766b2e636f6d
+tg://proxy?server=45.158.187.14&port=10092&secret=ee43fd0b58b14fb4f33e35dc93f3a929046164732e78352e7275
+tg://proxy?server=132.243.213.194&port=443&secret=ee26ff9abd705551b3db5133e8a7a1e34e79616e6465782e7275
+tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
+tg://proxy?server=217.60.2.195&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
+tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
+tg://proxy?server=138.124.127.154&port=443&secret=ee0c480abc71136dd1c5dadf918e32cea7766b2e636f6d
+tg://proxy?server=mtproto.ONLINE&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
+tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275
+tg://proxy?server=104.253.43.94&port=443&secret=ee48158585a131fc19a62c263035654f8179616e6465782e7275
+tg://proxy?server=138.124.127.179&port=443&secret=eef3c8fea5c83c9c837e5e292b2025afd8766b2e636f6d
+tg://proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc9753bf90cfc2d62726f777365722e79616e6465782e636f6d
+tg://proxy?server=91.193.25.110&port=443&secret=eeee0efbf80e240e4bfb348d2c22e739da647a656e2e7275
 tg://proxy?server=89.125.113.155&port=443&secret=ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275
-tg://proxy?server=89.125.113.189&port=443&secret=ee19835aa301cd9a6ceb68ad8d5ad9e0ac79616e6465782e7275
-tg://proxy?server=emir.epitaphic.extend.pilipinoteleserye.com&port=443&secret=ee3fd295a848bb22fafcc43f815b6bb4ec647a656e2e7275
-tg://proxy?server=158.160.232.216&port=443&secret=ee79612e727537ff352dabe2604c3fe5
-tg://proxy?server=s5.proxyru.top&port=443&secret=eefe281d2bfa13f991ed6be43138e5e14c79612e7275
-tg://proxy?server=138.124.8.231&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
-tg://proxy?server=62.3.12.2&port=8444&secret=ee6f7a6f6e2e7275f22c5421fa893965
-tg://proxy?server=138.124.8.238&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
+tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d
+tg://proxy?server=45.80.229.214&port=443&secret=ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275
 tg://proxy?server=109.120.183.224&port=443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d679616e6465782e7275
-tg://proxy?server=t.hhelios.ru&port=443&secret=eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275
-tg://proxy?server=prxy.vpnspacev.com&port=443&secret=ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275
-tg://proxy?server=138.124.8.240&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
-tg://proxy?server=mt.rimuruproject.ru&port=443&secret=ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275
-tg://proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=hotmoms.today&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
-tg://proxy?server=s4.neo-trading.org&port=443&secret=ee181e2ad5e63c27262781187f2dedc4bb79612e7275
-tg://proxy?server=proxy.yard-tg-bot.ru&port=443&secret=ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275
+tg://proxy?server=89.125.113.189&port=443&secret=ee19835aa301cd9a6ceb68ad8d5ad9e0ac79616e6465782e7275
+tg://proxy?server=s4.wyckoff.one&port=443&secret=eee091a124d81e530d3c1197f6e65c284b617669746f2e7275
+tg://proxy?server=emir.epitaphic.extend.pilipinoteleserye.com&port=443&secret=ee3fd295a848bb22fafcc43f815b6bb4ec647a656e2e7275
+tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
+tg://proxy?server=ru.vip.mambabot.net&port=443&secret=eeeb1d43653f046c18653280379226bee17275747562652e7275
+tg://proxy?server=138.124.8.231&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
+tg://proxy?server=138.124.8.238&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
+tg://proxy?server=alpina.agency&port=8443&secret=eea02597a68d4821f58d17e6405c389da16164732e78352e7275
+tg://proxy?server=62.3.12.2&port=8444&secret=ee6f7a6f6e2e7275f22c5421fa893965
+tg://proxy?server=tbojl.jlpokcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=concord.servervless.ru&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
+tg://proxy?server=skysky.sytes.net&port=443&secret=ee478850c95da2346d0e287f0ee3dd334479612e7275
+tg://proxy?server=he.18.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=proxy.yard-tg-bot.ru&port=443&secret=ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275
+tg://proxy?server=mt.rimuruproject.ru&port=443&secret=ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275
+tg://proxy?server=138.124.8.240&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
