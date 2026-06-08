@@ -1,11 +1,16 @@
-# Verified RU Proxies (6)
-# Updated: 2026-06-08 22:15:52 UTC
+# Verified RU Proxies (11)
+# Updated: 2026-06-08 23:48:22 UTC
 # Method: TCP_OK
-# Best ping: 0.089s
+# Best ping: 0.147s
 
 tg://proxy?server=132.243.235.197&port=443&secret=ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275
 tg://proxy?server=132.243.213.221&port=443&secret=ee4d3cf6b01fed616495b9651ebe37313f766b2e7275
+tg://proxy?server=132.243.235.194&port=443&secret=eebbef585db7c10242e5b3654910e1d91479616e6465782e7275
+tg://proxy?server=144.31.229.115&port=59105&secret=ee74de2744cd6e7d76dd27f016d5a6ec666164732e78352e7275
+tg://proxy?server=89.208.113.182&port=443&secret=ee171a9375170afdb5095d7bc9c19cc562766b2e636f6d
+tg://proxy?server=104.253.43.74&port=443&secret=ee05e177309b81b87d379e9f454c49374f79616e6465782e7275
+tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d
 tg://proxy?server=95.181.213.248&port=443&secret=ee8a2802995839c6ce8b8f7b0c3bfe44c67777772e617669746f2e7275
+tg://proxy?server=78.17.71.42&port=443&secret=eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275
 tg://proxy?server=he.de-nu.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=prater.shoeblack.sunny.teleseryepinoytv.com&port=443&secret=eedd184c9cc739c88d2c2e9fa110ca6281647a656e2e7275
 tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
