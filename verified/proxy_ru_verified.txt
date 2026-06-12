@@ -1,11 +1,18 @@
-# Verified RU Proxies (6)
-# Updated: 2026-06-12 02:00:43 UTC
+# Verified RU Proxies (13)
+# Updated: 2026-06-12 06:53:40 UTC
 # Method: TCP_OK
-# Best ping: 0.154s
+# Best ping: 0.089s
 
-tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d
-tg://proxy?server=ge.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275
-tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275
+tg://proxy?server=132.243.213.221&port=443&secret=ee4d3cf6b01fed616495b9651ebe37313f766b2e7275
+tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
 tg://proxy?server=hub.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275
+tg://proxy?server=147.45.68.25&port=443&secret=ee17352c284a418ed218cc6bbda02c0aac766b2e636f6d
+tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275
+tg://proxy?server=ge.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275
+tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=89.125.113.12&port=443&secret=ee5c435541940799bc8d9d4b591d62ddc179616e6465782e7275
+tg://proxy?server=89.125.113.15&port=443&secret=eee2aa8eea0145d9f9807b628705d6ea9379616e6465782e7275
+tg://proxy?server=80.96.112.222&port=443&secret=ee2e7fcf4666472ebd58e4fea75357105f7777772e79616e6465782e7275
+tg://proxy?server=tg.hhelios.ru&port=443&secret=eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275
 tg://proxy?server=tg.nowabst.net&port=853&secret=eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275
-tg://proxy?server=11.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=mtp.yard-tg-bot.ru&port=443&secret=eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275
