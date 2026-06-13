@@ -1,12 +1,9 @@
-# Verified RU Proxies (7)
-# Updated: 2026-06-13 15:06:19 UTC
+# Verified RU Proxies (4)
+# Updated: 2026-06-13 16:49:07 UTC
 # Method: TCP_OK
-# Best ping: 0.154s
+# Best ping: 0.175s
 
-tg://proxy?server=77.73.131.117&port=443&secret=ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d
-tg://proxy?server=144.31.229.115&port=59105&secret=ee74de2744cd6e7d76dd27f016d5a6ec666164732e78352e7275
 tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
+tg://proxy?server=intercom.mope.stoppage.teleseryestv.com&port=443&secret=eee9b3d6538064741ec64e9611e309065a647a656e2e7275
 tg://proxy?server=51.250.7.238&port=443&secret=ee15d4800ba49d3ac087413770a80de3ba617669746f2e7275
-tg://proxy?server=goal.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=mtp.catpaws.ru&port=443&secret=ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275
 tg://proxy?server=uplink.enot.dev&port=443&secret=eeddea4ea4ea4ea4ea4ea4ea4ea4ea4ea4766b2e636f6d
