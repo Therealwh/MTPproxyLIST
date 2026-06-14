@@ -1,19 +1,15 @@
-# Verified RU Proxies (14)
-# Updated: 2026-06-14 04:46:54 UTC
+# Verified RU Proxies (10)
+# Updated: 2026-06-14 08:43:37 UTC
 # Method: TCP_OK
-# Best ping: 0.106s
+# Best ping: 0.101s
 
-tg://proxy?server=82.40.49.189&port=443&secret=ee4f16151d4d748e02ab3a97325f54554d62726f777365722e79616e6465782e636f6d
-tg://proxy?server=2.27.25.192&port=443&secret=ee038521d3753473464064e3bb49abadb26d61696c2e7275
+tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d
 tg://proxy?server=bezobhoda.freeon.name&port=8443&secret=eeed1a5a7f339b8ff9840d52df123829706164732e78352e7275
-tg://proxy?server=89.125.113.15&port=443&secret=eee2aa8eea0145d9f9807b628705d6ea9379616e6465782e7275
-tg://proxy?server=89.125.113.12&port=443&secret=ee5c435541940799bc8d9d4b591d62ddc179616e6465782e7275
-tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=rdp.nl.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=89.125.113.12&port=443&secret=ee40785eb436e2c9bce293356b0db1ed2e79616e6465782e7275
+tg://proxy?server=cloud.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=13.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=mtproto.ONLINE&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
-tg://proxy?server=kelly.proxyprosto.sbs&port=443&secret=ee79612e72756039543b96de91e27fed
-tg://proxy?server=s3.fluctuation.online&port=443&secret=eedd345afe9188a4e5a94dc706e1aa6cef78352e7275
-tg://proxy?server=uplink.enot.dev&port=443&secret=eeddea4ea4ea4ea4ea4ea4ea4ea4ea4ea4766b2e636f6d
 tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
+tg://proxy?server=uplink.enot.dev&port=443&secret=eeddea4ea4ea4ea4ea4ea4ea4ea4ea4ea4766b2e636f6d
 tg://proxy?server=prxy.vpnspacev.com&port=443&secret=ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275
-tg://proxy?server=nid1.mtproxyserver.site&port=443&secret=ee4981407056399dc3f8c168e96d42fb9962726f777365722e79616e6465782e636f6d
+tg://proxy?server=newfr1.mtproxyserver.site&port=443&secret=ee15a75010bfb7702a5758f2da211e65d062726f777365722e79616e6465782e636f6d
