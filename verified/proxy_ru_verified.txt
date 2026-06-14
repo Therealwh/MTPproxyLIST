@@ -1,13 +1,11 @@
-# Verified RU Proxies (8)
-# Updated: 2026-06-14 13:15:18 UTC
+# Verified RU Proxies (6)
+# Updated: 2026-06-14 15:21:46 UTC
 # Method: TCP_OK
-# Best ping: 0.097s
+# Best ping: 0.04s
 
-tg://proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-tg://proxy?server=51.250.75.98&port=443&secret=ee2af448fb2a21cb48d6b3872514134fb7617669746f2e7275
-tg://proxy?server=51.250.85.134&port=443&secret=eec7b827c1a6a0ad8b441e271442137a86617669746f2e7275
-tg://proxy?server=proxy18.arixo.shop&port=443&secret=ee819b4efa2397a9470682aae92babee31617669746f2e7275
-tg://proxy?server=proxy19.arixo.shop&port=443&secret=ee6563f5614f0abb0d62d219083ab9f658617669746f2e7275
-tg://proxy?server=13.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=95.182.86.60&port=443&secret=ee82dd957be0c6899a82879d05fecfc73a617669746f2e7275
+tg://proxy?server=89.22.236.159&port=443&secret=eef838b6a55fa5e8393c63def771cf1014766b2e636f6d
+tg://proxy?server=104.253.43.74&port=443&secret=ee05e177309b81b87d379e9f454c49374f79616e6465782e7275
+tg://proxy?server=kelly.proxyprosto.sbs&port=443&secret=ee79612e72756039543b96de91e27fed
 tg://proxy?server=uplink.enot.dev&port=443&secret=eeddea4ea4ea4ea4ea4ea4ea4ea4ea4ea4766b2e636f6d
-tg://proxy?server=www.tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=proxy18.arixo.shop&port=443&secret=ee819b4efa2397a9470682aae92babee31617669746f2e7275
