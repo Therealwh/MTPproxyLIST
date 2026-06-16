@@ -1,14 +1,20 @@
-# Verified RU Proxies (9)
-# Updated: 2026-06-15 22:35:02 UTC
+# Verified RU Proxies (15)
+# Updated: 2026-06-16 00:17:49 UTC
 # Method: TCP_OK
-# Best ping: 0.091s
+# Best ping: 0.105s
 
-tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
-tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
+tg://proxy?server=94.141.123.95&port=8445&secret=eed40812c2952b3137fb2a99e9f3c5951d65682e766b2e7275
+tg://proxy?server=147.45.68.59&port=443&secret=eeea62717efcf6c6c3beba94b1f8a4166a766b2e636f6d
+tg://proxy?server=2.27.25.192&port=443&secret=ee038521d3753473464064e3bb49abadb26d61696c2e7275
 tg://proxy?server=tg.nowabst.net&port=853&secret=eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275
-tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275
+tg://proxy?server=85.192.31.18&port=443&secret=eecad61c6d50bf90c6c756f68bd926989b766b2e636f6d
+tg://proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275
+tg://proxy?server=rdp.nl.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
 tg://proxy?server=hub.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275
+tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275
+tg://proxy?server=prxy.vpnspacev.com&port=443&secret=ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275
+tg://proxy?server=alexeylox.chunkycorp.shop&port=443&secret=ee1afb6de782af4c1bf29d1e230a0e5a8d617669746f2e7275
 tg://proxy?server=Geng.etherealvpn.uk&port=443&secret=eefd6c10517940b3ad79ce5e3d40c9972e617669746f2e7275
 tg://proxy?server=fat.slarkfat.icu&port=443&secret=ee8b5ecd05d1a2959d07adcad01f4fcda9617669746f2e7275
-tg://proxy?server=alexeylox.chunkycorp.shop&port=443&secret=ee1afb6de782af4c1bf29d1e230a0e5a8d617669746f2e7275
-tg://proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275
+tg://proxy?server=proxy-de.wearvpn.online&port=443&secret=eee707742c789a4d4551f7f13c07fe7a31766b2e7275
