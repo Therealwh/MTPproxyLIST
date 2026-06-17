@@ -1,17 +1,14 @@
-# Verified RU Proxies (12)
-# Updated: 2026-06-17 17:25:41 UTC
+# Verified RU Proxies (9)
+# Updated: 2026-06-17 19:37:15 UTC
 # Method: TCP_OK
-# Best ping: 0.148s
+# Best ping: 0.152s
 
 tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
 tg://proxy?server=global.mtp.lat&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e7275450845a3ade2
-tg://proxy?server=93.77.191.135&port=443&secret=ee2adf378e4dda51ba74fcdfa375e9ef1a617669746f2e7275
-tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
-tg://proxy?server=93.77.188.108&port=443&secret=ee8b4a1336cee1ea54a5b3e3b1f2b1cfd9617669746f2e7275
-tg://proxy?server=51.250.85.134&port=443&secret=eec7b827c1a6a0ad8b441e271442137a86617669746f2e7275
 tg://proxy?server=93.77.187.54&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=proxy50.arixo.shop&port=443&secret=ee575d377290b9d579fe1e572c4b8d4b7b617669746f2e7275
 tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e72757f81f31151d7
 tg://proxy?server=mtp.catpaws.ru&port=443&secret=ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275
+tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
+tg://proxy?server=tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
