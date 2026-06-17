@@ -1,18 +1,20 @@
-# Verified RU Proxies (13)
-# Updated: 2026-06-17 10:05:34 UTC
+# Verified RU Proxies (15)
+# Updated: 2026-06-17 14:02:33 UTC
 # Method: TCP_OK
-# Best ping: 0.091s
+# Best ping: 0.137s
 
 tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
-tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
-tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275
-tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
-tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=mtp.catpaws.ru&port=443&secret=ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275
-tg://proxy?server=85.192.31.18&port=443&secret=eecad61c6d50bf90c6c756f68bd926989b766b2e636f6d
-tg://proxy?server=95.181.213.248&port=443&secret=ee8a2802995839c6ce8b8f7b0c3bfe44c67777772e617669746f2e7275
+tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
+tg://proxy?server=2.27.22.226&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
 tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e72757f81f31151d7
-tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275
-tg://proxy?server=prater.shoeblack.sunny.teleseryepinoytv.com&port=443&secret=eedd184c9cc739c88d2c2e9fa110ca6281647a656e2e7275
+tg://proxy?server=89.22.236.159&port=443&secret=eef838b6a55fa5e8393c63def771cf1014766b2e636f6d
+tg://proxy?server=bezobhoda.freeon.name&port=8443&secret=eeed1a5a7f339b8ff9840d52df123829706164732e78352e7275
 tg://proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275
+tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275
+tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275
+tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
+tg://proxy?server=rdp.nl.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
+tg://proxy?server=mtp.catpaws.ru&port=443&secret=ee58c2807d6ee43ab9a42107ff7ef4f7b579612e7275
 tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
