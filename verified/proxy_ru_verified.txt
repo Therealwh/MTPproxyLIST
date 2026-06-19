@@ -1,11 +1,13 @@
-# Verified RU Proxies (6)
-# Updated: 2026-06-19 16:34:36 UTC
+# Verified RU Proxies (8)
+# Updated: 2026-06-19 18:24:08 UTC
 # Method: TCP_OK
-# Best ping: 0.095s
+# Best ping: 0.098s
 
-tg://proxy?server=89.208.113.182&port=443&secret=ee171a9375170afdb5095d7bc9c19cc562766b2e636f6d
-tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
-tg://proxy?server=159.194.221.26&port=443&secret=ee208f23ace1558102572914066d21107f7777772e79616e6465782e7275
+tg://proxy?server=85.192.29.173&port=443&secret=ee764656762499295cd6aef0714a2a4bdf766b2e636f6d
+tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
 tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e72757f81f31151d7
-tg://proxy?server=bezobhoda.freeon.name&port=8443&secret=eeed1a5a7f339b8ff9840d52df123829706164732e78352e7275
+tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
+tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
+tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
