@@ -1,19 +1,13 @@
-# Verified RU Proxies (14)
-# Updated: 2026-06-23 04:42:38 UTC
+# Verified RU Proxies (8)
+# Updated: 2026-06-23 08:21:02 UTC
 # Method: TCP_OK
-# Best ping: 0.112s
+# Best ping: 0.152s
 
-tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275
 tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
-tg://proxy?server=144.31.157.26&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=2.27.22.226&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=193.25.216.19&port=443&secret=ee79612e7275ed3a9baef550b4583f00
-tg://proxy?server=51.250.75.98&port=443&secret=ee2af448fb2a21cb48d6b3872514134fb7617669746f2e7275
-tg://proxy?server=109.120.183.224&port=443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d679616e6465782e7275
 tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=he.de-nu.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=79.137.194.196&port=443&secret=ee2b1199d55f2189e508d07f1f5503faf2766b2e636f6d
+tg://proxy?server=185.152.92.227&port=443&secret=ee79612e7275e7c9af4731c017d3a1fe
+tg://proxy?server=51.250.75.98&port=443&secret=ee2af448fb2a21cb48d6b3872514134fb7617669746f2e7275
+tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
 tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
-tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
-tg://proxy?server=gamma-roxy.ip-ddns.com&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d
+tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
