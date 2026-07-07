@@ -1,14 +1,9 @@
-# Verified RU Proxies (9)
-# Updated: 2026-07-07 13:28:19 UTC
+# Verified RU Proxies (4)
+# Updated: 2026-07-07 16:04:59 UTC
 # Method: TCP_OK
-# Best ping: 0.115s
+# Best ping: 0.092s
 
-tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-tg://proxy?server=s03.neo-trading.org&port=443&secret=eee4bdd862b817da34a7bae5a15d71bd93766b2e636f6d
+tg://proxy?server=global.mtp.lat&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=2.26.98.206&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
 tg://proxy?server=93.77.176.108&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=109.120.183.224&port=443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d679616e6465782e7275
-tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=prxy.vpnspacev.com&port=443&secret=ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275
+tg://proxy?server=ge.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275
