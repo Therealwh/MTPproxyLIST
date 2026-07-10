@@ -1,15 +1,26 @@
-# Verified RU Proxies (10)
-# Updated: 2026-07-10 17:01:04 UTC
+# Verified RU Proxies (21)
+# Updated: 2026-07-10 18:46:25 UTC
 # Method: TCP_OK
-# Best ping: 0.15s
+# Best ping: 0.094s
 
-tg://proxy?server=mtpvideo.my&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275
-tg://proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=2.26.98.208&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
 tg://proxy?server=38.244.194.129&port=443&secret=ee105b4c7698aedbb55f291968ad2439d4647a656e2e7275
-tg://proxy?server=hub.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275
-tg://proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275
-tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=canaliculate.dago.isobaric.washability.welterweight.umatno.info&port=37806&secret=eeb8d8bd031598309e066afffc53a4c665647a656e2e7275
-tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
+tg://proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=109.120.183.224&port=443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d679616e6465782e7275
+tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
+tg://proxy?server=mtpvideo.my&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275
 tg://proxy?server=contritely.cut.disciform.compinoy.com&port=443&secret=eed7abff44c24e65099644a6c4c04d5a35647a656e2e7275
+tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=idyll.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=130.49.169.160&port=443&secret=eedab20682678a2d6dca5aefe1c75aa69073656c656374656c2e7275
 tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
+tg://proxy?server=canaliculate.dago.isobaric.washability.welterweight.umatno.info&port=37806&secret=eeb8d8bd031598309e066afffc53a4c665647a656e2e7275
+tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=newfr1.mtproxyserver.site&port=443&secret=ee15a75010bfb7702a5758f2da211e65d062726f777365722e79616e6465782e636f6d
+tg://proxy?server=gamma-roxy.ip-ddns.com&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d
