@@ -1,23 +1,19 @@
-# Verified RU Proxies (18)
-# Updated: 2026-07-16 15:07:10 UTC
+# Verified RU Proxies (14)
+# Updated: 2026-07-16 16:42:58 UTC
 # Method: TCP_OK
-# Best ping: 0.118s
+# Best ping: 0.151s
 
-tg://proxy?server=132.243.235.189&port=443&secret=ee580a561631a7217d4a0607bb2be8930e79616e6465782e7275
-tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
-tg://proxy?server=38.244.194.129&port=443&secret=ee105b4c7698aedbb55f291968ad2439d4647a656e2e7275
 tg://proxy?server=mtpvideo.my&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275
+tg://proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d
+tg://proxy?server=38.244.194.129&port=443&secret=ee105b4c7698aedbb55f291968ad2439d4647a656e2e7275
 tg://proxy?server=130.193.39.208&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=cdn.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf811795766b2e636f6d
-tg://proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275
-tg://proxy?server=contritely.cut.disciform.compinoy.com&port=443&secret=eed7abff44c24e65099644a6c4c04d5a35647a656e2e7275
-tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
-tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
-tg://proxy?server=s3.fluctuation.online&port=443&secret=eedd345afe9188a4e5a94dc706e1aa6cef78352e7275
+tg://proxy?server=contritely.cut.disciform.compinoy.com&port=443&secret=eed7abff44c24e65099644a6c4c04d5a35647a656e2e7275
+tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=gloam.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=canaliculate.dago.isobaric.washability.welterweight.umatno.info&port=37806&secret=eeb8d8bd031598309e066afffc53a4c665647a656e2e7275
 tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=tarn.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
