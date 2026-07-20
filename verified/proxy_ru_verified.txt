@@ -1,15 +1,16 @@
-# Verified RU Proxies (10)
-# Updated: 2026-07-20 21:49:25 UTC
+# Verified RU Proxies (11)
+# Updated: 2026-07-20 23:04:26 UTC
 # Method: TCP_OK
-# Best ping: 0.136s
+# Best ping: 0.099s
 
-tg://proxy?server=31.76.39.36&port=443&secret=eeed5518514cf40187d905c5b7c9e4d595617669746f2e7275
-tg://proxy?server=132.243.235.189&port=443&secret=ee580a561631a7217d4a0607bb2be8930e79616e6465782e7275
-tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275
+tg://proxy?server=46.226.166.175&port=443&secret=eec7e4c3d2dfb3c8a1107a8f684ac3b6d7766b2e636f6d
+tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
+tg://proxy?server=77.110.110.179&port=443&secret=ee72687e2188e615b214bffac01d399ee7766b2e636f6d
+tg://proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
-tg://proxy?server=athematic.mydriasis.paco.steatoma.warring.lamidix.com&port=1450&secret=eec94ed77bf66cc3866481beb8cff1fdf0647a656e2e7275
-tg://proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d
-tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=159.194.221.26&port=443&secret=ee208f23ace1558102572914066d21107f7777772e79616e6465782e7275
 tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d
+tg://proxy?server=athematic.mydriasis.paco.steatoma.warring.lamidix.com&port=1450&secret=eec94ed77bf66cc3866481beb8cff1fdf0647a656e2e7275
+tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
