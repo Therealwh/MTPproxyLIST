@@ -1,17 +1,10 @@
-# Verified RU Proxies (12)
-# Updated: 2026-07-27 12:32:46 UTC
+# Verified RU Proxies (5)
+# Updated: 2026-07-27 15:31:06 UTC
 # Method: TCP_OK
-# Best ping: 0.095s
+# Best ping: 0.158s
 
-tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=2.26.98.207&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=2.27.22.224&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=tr.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e606164732e78352e7275
-tg://proxy?server=proxy28.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
-tg://proxy?server=lazeyka-2-5.getvelora.space&port=443&secret=ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275
-tg://proxy?server=proxy1.fsproxy.site&port=443&secret=ee13f2a6bfe1db76b08a45c16eee55a543617669746f2e7275
-tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
+tg://proxy?server=213.176.94.29&port=443&secret=ee79612e727533b76a10ec4f6547a7a2
+tg://proxy?server=canaliculate.dago.isobaric.washability.welterweight.umatno.info&port=37806&secret=eeb8d8bd031598309e066afffc53a4c665647a656e2e7275
+tg://proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275
+tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=athematic.mydriasis.paco.steatoma.warring.lamidix.com&port=1450&secret=eec94ed77bf66cc3866481beb8cff1fdf0647a656e2e7275
