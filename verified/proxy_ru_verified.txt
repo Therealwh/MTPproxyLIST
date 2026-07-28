@@ -1,14 +1,13 @@
-# Verified RU Proxies (9)
-# Updated: 2026-07-28 18:47:50 UTC
+# Verified RU Proxies (8)
+# Updated: 2026-07-28 20:19:37 UTC
 # Method: TCP_OK
-# Best ping: 0.153s
+# Best ping: 0.15s
 
-tg://proxy?server=89.35.131.217&port=443&secret=ee21406fa1321a733a9fe7edd39ddbe4fe7777772e79616e6465782e7275
-tg://proxy?server=79.137.205.22&port=443&secret=ee47849470a70a19f5e6d0767b7440e90f766b2e636f6d
-tg://proxy?server=45.12.75.87&port=443&secret=eed3451ca6b019ec516ad995d744edc32c6f7a6f6e2e7275
-tg://proxy?server=62.3.12.2&port=8444&secret=ee6f7a6f6e2e7275f22c5421fa893965
-tg://proxy?server=heliophobic.radiotelephone.surreptitious.teleseryegroup.com&port=443&secret=ee0f26619fbe2ac1789e3c9c8f30436c2f647a656e2e7275
-tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d
+tg://proxy?server=2.26.98.206&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
 tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=proxy14.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=lazeyka-2-6.getvelora.space&port=443&secret=ee8a085f4b74b7698d5873d2e587c4f22d6f7a6f6e2e7275
