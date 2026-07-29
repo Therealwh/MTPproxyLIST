@@ -1,6 +1,7 @@
-# Verified RU Proxies (1)
-# Updated: 2026-07-29 17:57:21 UTC
+# Verified RU Proxies (2)
+# Updated: 2026-07-29 19:36:15 UTC
 # Method: TCP_OK
-# Best ping: 0.184s
+# Best ping: 0.159s
 
-tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=158.160.232.183&port=443&secret=eefab80a27431eaf7ddafa501cc79b4531617669746f2e7275
