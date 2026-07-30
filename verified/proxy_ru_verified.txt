@@ -1,11 +1,6 @@
-# Verified RU Proxies (6)
-# Updated: 2026-07-30 04:22:53 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-07-30 07:15:03 UTC
 # Method: TCP_OK
-# Best ping: 0.146s
+# Best ping: 0.089s
 
-tg://proxy?server=150.241.70.0&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275
-tg://proxy?server=2.27.86.91&port=443&secret=eee3ba5e814a7b81ef8d7608d18813913679616e6465782e7275
-tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
-tg://proxy?server=athematic.mydriasis.paco.steatoma.warring.lamidix.com&port=1450&secret=eec94ed77bf66cc3866481beb8cff1fdf0647a656e2e7275
-tg://proxy?server=he.de-nu.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=132.243.235.197&port=443&secret=ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275
