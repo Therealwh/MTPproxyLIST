@@ -1,9 +1,7 @@
-# Verified RU Proxies (4)
-# Updated: 2026-07-30 09:46:09 UTC
+# Verified RU Proxies (2)
+# Updated: 2026-07-30 11:55:20 UTC
 # Method: TCP_OK
-# Best ping: 0.132s
+# Best ping: 0.15s
 
-tg://proxy?server=proxy-de.wearvpn.online&port=443&secret=eee707742c789a4d4551f7f13c07fe7a31766b2e7275
-tg://proxy?server=mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
-tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=newfr1.mtproxyserver.site&port=443&secret=ee15a75010bfb7702a5758f2da211e65d062726f777365722e79616e6465782e636f6d
+tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275
+tg://proxy?server=obhod.wearvpn.online&port=443&secret=eed535581418ca0f4c1c7707a406db91d079616e6465782e7275
