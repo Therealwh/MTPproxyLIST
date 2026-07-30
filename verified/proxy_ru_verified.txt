@@ -1,6 +1,11 @@
-# Verified RU Proxies (1)
-# Updated: 2026-07-30 16:06:55 UTC
+# Verified RU Proxies (6)
+# Updated: 2026-07-30 17:50:30 UTC
 # Method: TCP_OK
-# Best ping: 0.11s
+# Best ping: 0.094s
 
-tg://proxy?server=45.80.229.214&port=443&secret=ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275
+tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
+tg://proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d
+tg://proxy?server=mtproto.ONLINE&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
+tg://proxy?server=s2.fluctuation.online&port=443&secret=eedd345afe9188a4e5a94dc706e1aa6cef78352e7275
+tg://proxy?server=lazeyka-2-6.getvelora.space&port=443&secret=ee8a085f4b74b7698d5873d2e587c4f22d6f7a6f6e2e7275
+tg://proxy?server=proxy1.fsproxy.site&port=443&secret=ee13f2a6bfe1db76b08a45c16eee55a543617669746f2e7275
