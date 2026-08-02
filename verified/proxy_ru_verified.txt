@@ -1,9 +1,9 @@
 # Verified RU Proxies (4)
-# Updated: 2026-08-02 12:06:36 UTC
+# Updated: 2026-08-02 13:57:09 UTC
 # Method: TCP_OK
-# Best ping: 0.117s
+# Best ping: 0.135s
 
-tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d
-tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=lazeyka-3.getvelora.space&port=443&secret=ee1dd78b7b5132effe70cb01bef69a351a6f7a6f6e2e7275
