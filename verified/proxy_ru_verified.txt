@@ -1,13 +1,10 @@
-# Verified RU Proxies (8)
-# Updated: 2026-08-03 11:31:45 UTC
+# Verified RU Proxies (5)
+# Updated: 2026-08-03 14:02:37 UTC
 # Method: TCP_OK
-# Best ping: 0.096s
+# Best ping: 0.181s
 
-tg://proxy?server=2.26.98.206&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-tg://proxy?server=93.77.165.1&port=443&secret=ee9f9c9180dbe1d442fbe689aed524f60f617669746f2e7275
-tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
+tg://proxy?server=193.25.216.19&port=443&secret=ee79612e7275ed3a9baef550b4583f00
+tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
 tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=my.safepal.life&port=443&secret=ee65682e766b2e636f6db97f3e8c4607
 tg://proxy?server=lazeyka-4.getvelora.space&port=443&secret=ee8cb9b7ded45502a4f153299a621a9d3d6f7a6f6e2e7275
+tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
