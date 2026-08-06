@@ -1,14 +1,17 @@
-# Verified RU Proxies (9)
-# Updated: 2026-08-06 12:20:44 UTC
+# Verified RU Proxies (12)
+# Updated: 2026-08-06 14:55:00 UTC
 # Method: TCP_OK
-# Best ping: 0.14s
+# Best ping: 0.116s
 
-tg://proxy?server=91.108.248.229&port=443&secret=eec16575954a98f1f3277fc329ec45a75279616e6465782e7275
-tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
+tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275
+tg://proxy?server=93.77.160.94&port=443&secret=ee3a100e0752a45411e15ade894aab3716617669746f2e7275
 tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
+tg://proxy?server=proxy6.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=51.250.45.233&port=443&secret=eee3fab34ae2482234bc90da96d31577d7617669746f2e7275
+tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=prxtg.enterlancevpn.com&port=8443&secret=ee79612e7275c8d582e6565ef8a46786
+tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+tg://proxy?server=gamma-roxy.ip-ddns.com&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d
