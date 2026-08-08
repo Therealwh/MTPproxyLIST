@@ -1,11 +1,13 @@
-# Verified RU Proxies (6)
-# Updated: 2026-08-08 03:51:03 UTC
+# Verified RU Proxies (8)
+# Updated: 2026-08-08 05:02:49 UTC
 # Method: TCP_OK
-# Best ping: 0.103s
+# Best ping: 0.081s
 
-tg://proxy?server=2.27.86.91&port=443&secret=eee3ba5e814a7b81ef8d7608d18813913679616e6465782e7275
-tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
+tg://proxy?server=45.38.23.169&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
+tg://proxy?server=91.108.248.230&port=443&secret=ee483cb87d2e5a90eeb745841a0f0e940679616e6465782e7275
+tg://proxy?server=132.243.235.187&port=443&secret=ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
-tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=bella-cook.com&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
-tg://proxy?server=idyll.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
+tg://proxy?server=proxy6.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
