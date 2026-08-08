@@ -1,7 +1,9 @@
-# Verified RU Proxies (2)
-# Updated: 2026-08-08 09:02:12 UTC
+# Verified RU Proxies (4)
+# Updated: 2026-08-08 09:55:31 UTC
 # Method: TCP_OK
-# Best ping: 0.162s
+# Best ping: 0.139s
 
+tg://proxy?server=91.108.189.184&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
+tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
