@@ -1,9 +1,7 @@
-# Verified RU Proxies (4)
-# Updated: 2026-08-08 08:00:59 UTC
+# Verified RU Proxies (2)
+# Updated: 2026-08-08 09:02:12 UTC
 # Method: TCP_OK
-# Best ping: 0.151s
+# Best ping: 0.162s
 
-tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275
-tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
 tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
-tg://proxy?server=lazeyka-5.getvelora.space&port=443&secret=ee3e0dff728bbad2c7b56124815fa1492d6f7a6f6e2e7275
+tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
