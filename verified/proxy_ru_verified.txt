@@ -1,10 +1,12 @@
-# Verified RU Proxies (5)
-# Updated: 2026-08-09 11:15:08 UTC
+# Verified RU Proxies (7)
+# Updated: 2026-08-09 11:49:48 UTC
 # Method: TCP_OK
-# Best ping: 0.098s
+# Best ping: 0.16s
 
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
-tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=79.137.205.22&port=443&secret=ee47849470a70a19f5e6d0767b7440e90f766b2e636f6d
+tg://proxy?server=mttm.fastexte.pro&port=443&secret=ee42d60bd89ab2c1e93a1affacdaf8f4b87275747562652e7275
+tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
