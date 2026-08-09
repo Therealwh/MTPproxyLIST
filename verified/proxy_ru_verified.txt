@@ -1,14 +1,12 @@
-# Verified RU Proxies (9)
-# Updated: 2026-08-08 23:46:05 UTC
+# Verified RU Proxies (7)
+# Updated: 2026-08-09 02:06:06 UTC
 # Method: TCP_OK
-# Best ping: 0.145s
+# Best ping: 0.173s
 
-tg://proxy?server=212.80.7.145&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=193.25.216.19&port=443&secret=ee79612e7275ed3a9baef550b4583f00
-tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=2.26.98.209&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=2.26.98.207&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
-tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
+tg://proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d
+tg://proxy?server=mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
 tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
