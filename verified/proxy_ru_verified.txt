@@ -1,13 +1,8 @@
-# Verified RU Proxies (8)
-# Updated: 2026-08-10 17:27:28 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-08-10 18:26:26 UTC
 # Method: TCP_OK
-# Best ping: 0.136s
+# Best ping: 0.175s
 
-tg://proxy?server=91.108.248.229&port=443&secret=eec16575954a98f1f3277fc329ec45a75279616e6465782e7275
-tg://proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
-tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
 tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=193.25.216.19&port=443&secret=ee79612e7275ed3a9baef550b4583f00
-tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=megaconnect.click&port=2083&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
