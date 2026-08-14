@@ -1,9 +1,10 @@
-# Verified RU Proxies (4)
-# Updated: 2026-08-14 20:57:13 UTC
+# Verified RU Proxies (5)
+# Updated: 2026-08-14 21:33:04 UTC
 # Method: TCP_OK
-# Best ping: 0.173s
+# Best ping: 0.108s
 
-tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
+tg://proxy?server=89.208.113.182&port=443&secret=ee171a9375170afdb5095d7bc9c19cc562766b2e636f6d
+tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d
+tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=global.mtp.lat&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=gamerpr.cfd&port=8880&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
