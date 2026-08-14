@@ -1,11 +1,9 @@
-# Verified RU Proxies (6)
-# Updated: 2026-08-14 10:08:46 UTC
+# Verified RU Proxies (4)
+# Updated: 2026-08-14 11:09:13 UTC
 # Method: TCP_OK
-# Best ping: 0.16s
+# Best ping: 0.201s
 
-tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275
-tg://proxy?server=stable.rkn.lat&port=443&secret=ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574
-tg://proxy?server=br.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
 tg://proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d
-tg://proxy?server=intercom.mope.stoppage.teleseryestv.com&port=443&secret=eee9b3d6538064741ec64e9611e309065a647a656e2e7275
+tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+tg://proxy?server=stable.rkn.lat&port=443&secret=ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
