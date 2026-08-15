@@ -1,12 +1,11 @@
-# Verified RU Proxies (7)
-# Updated: 2026-08-15 10:27:52 UTC
+# Verified RU Proxies (6)
+# Updated: 2026-08-15 10:51:29 UTC
 # Method: TCP_OK
-# Best ping: 0.1s
+# Best ping: 0.152s
 
-tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275
 tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
-tg://proxy?server=he.de-nu.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d
-tg://proxy?server=freeinternet.skin&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=89.169.173.127&port=443&secret=ee0f8e5e42ea0dd0f9639d851090e69760617669746f2e7275
+tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275
+tg://proxy?server=br.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
 tg://proxy?server=nyakawai.shop&port=2053&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=freeinternet.skin&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
