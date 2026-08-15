@@ -1,13 +1,13 @@
 # Verified RU Proxies (8)
-# Updated: 2026-08-15 21:35:58 UTC
+# Updated: 2026-08-15 21:57:38 UTC
 # Method: TCP_OK
-# Best ping: 0.142s
+# Best ping: 0.143s
 
-tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d
+tg://proxy?server=89.125.113.15&port=443&secret=eee2aa8eea0145d9f9807b628705d6ea9379616e6465782e7275
 tg://proxy?server=megaconnect.click&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d
-tg://proxy?server=artist.stereotyper.upborn.teleseryestvheaven.com&port=443&secret=ee73fde7d2db16c799e6a8e203c12e97a2647a656e2e7275
-tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+tg://proxy?server=mttm.fastexte.pro&port=443&secret=ee42d60bd89ab2c1e93a1affacdaf8f4b87275747562652e7275
+tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d
+tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=freeinternet.skin&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
