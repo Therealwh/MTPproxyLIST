@@ -1,10 +1,11 @@
-# Verified RU Proxies (5)
-# Updated: 2026-08-15 01:50:47 UTC
+# Verified RU Proxies (6)
+# Updated: 2026-08-15 02:55:40 UTC
 # Method: TCP_OK
-# Best ping: 0.145s
+# Best ping: 0.109s
 
-tg://proxy?server=132.243.235.197&port=443&secret=ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275
+tg://proxy?server=212.80.7.145&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
 tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d
+tg://proxy?server=91.108.189.184&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
-tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
