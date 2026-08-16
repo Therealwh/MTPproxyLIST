@@ -1,10 +1,12 @@
-# Verified RU Proxies (5)
-# Updated: 2026-08-16 20:59:24 UTC
+# Verified RU Proxies (7)
+# Updated: 2026-08-16 21:29:37 UTC
 # Method: TCP_OK
-# Best ping: 0.184s
+# Best ping: 0.106s
 
+tg://proxy?server=132.243.235.187&port=443&secret=ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275
+tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
+tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
 tg://proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
-tg://proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d
-tg://proxy?server=starstg.neverspy.tech&port=443&secret=eee19ef78b188ec248d8187c787a46ccca647a656e2e7275
-tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+tg://proxy?server=starstg.neverspy.tech&port=443&secret=eee19ef78b188ec248d8187c787a46ccca647a656e2e7275
+tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
