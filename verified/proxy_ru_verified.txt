@@ -1,10 +1,8 @@
-# Verified RU Proxies (5)
-# Updated: 2026-08-16 19:56:37 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-08-16 20:31:20 UTC
 # Method: TCP_OK
-# Best ping: 0.124s
+# Best ping: 0.179s
 
-tg://proxy?server=45.38.23.169&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-tg://proxy?server=213.176.94.29&port=443&secret=ee79612e727533b76a10ec4f6547a7a2
-tg://proxy?server=eboulement.hierolatry.platinize.soapfish.southerner.filka.info&port=42223&secret=ee806f1e6b70f6a7c119c94ba66cee0a97647a656e2e7275
+tg://proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
+tg://proxy?server=proxy6.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=cdn.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf811795766b2e636f6d
