@@ -1,11 +1,11 @@
 # Verified RU Proxies (6)
-# Updated: 2026-08-17 03:54:16 UTC
+# Updated: 2026-08-17 04:49:13 UTC
 # Method: TCP_OK
-# Best ping: 0.149s
+# Best ping: 0.172s
 
-tg://proxy?server=150.241.70.0&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275
-tg://proxy?server=213.176.94.29&port=443&secret=ee79612e727533b76a10ec4f6547a7a2
-tg://proxy?server=193.25.216.19&port=443&secret=ee79612e7275ed3a9baef550b4583f00
-tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
+tg://proxy?server=starstg.neverspy.tech&port=443&secret=eee19ef78b188ec248d8187c787a46ccca647a656e2e7275
+tg://proxy?server=mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
+tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
