@@ -1,10 +1,10 @@
 # Verified RU Proxies (5)
-# Updated: 2026-08-18 13:09:30 UTC
+# Updated: 2026-08-18 13:58:22 UTC
 # Method: TCP_OK
-# Best ping: 0.15s
+# Best ping: 0.168s
 
-tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
 tg://proxy?server=anti.rkn.lat&port=443&secret=ee5ad5e4caef72b74d57ffb9781b3e5f04636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574
-tg://proxy?server=176.12.69.32&port=443&secret=ee79612e72758e84feb907475118033d
-tg://proxy?server=nyakawai.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=proxtstar.live&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=nyakawai.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=s3.assetflux.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
