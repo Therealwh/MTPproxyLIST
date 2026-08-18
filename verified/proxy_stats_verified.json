@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-18T05:13:56.885334",
-  "total_raw": 912,
-  "total_verified": 331,
-  "ru_count": 7,
-  "eu_count": 324,
+  "timestamp_utc": "2026-08-18T05:48:39.169375",
+  "total_raw": 564,
+  "total_verified": 294,
+  "ru_count": 5,
+  "eu_count": 289,
   "telethon_used": false,
-  "best_ru_ping": 0.157,
-  "best_eu_ping": 0.002,
-  "execution_time": 14.2,
+  "best_ru_ping": 0.177,
+  "best_eu_ping": 0.005,
+  "execution_time": 12.6,
   "sources_count": 6,
   "workers": 150
 }
