@@ -1,15 +1,14 @@
-# Verified RU Proxies (10)
-# Updated: 2026-08-20 19:00:57 UTC
+# Verified RU Proxies (9)
+# Updated: 2026-08-20 19:46:56 UTC
 # Method: TCP_OK
-# Best ping: 0.133s
+# Best ping: 0.09s
 
-tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
-tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
-tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
-tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
-tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
-tg://proxy?server=nyakawai.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
+tg://proxy?server=89.125.17.165&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
-tg://proxy?server=s3.assetflux.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=tg.magproxy.com&port=443&secret=eeb30fc4df699024f7a5dec0b0e66524b165682e766b2e636f6d
+tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
+tg://proxy?server=nyakawai.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
+tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
+tg://proxy?server=starstg.neverspy.tech&port=443&secret=eee19ef78b188ec248d8187c787a46ccca647a656e2e7275
+tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
+tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
