@@ -1,8 +1,8 @@
 # Verified RU Proxies (3)
-# Updated: 2026-08-23 11:02:37 UTC
+# Updated: 2026-08-23 11:36:34 UTC
 # Method: TCP_OK
-# Best ping: 0.152s
+# Best ping: 0.098s
 
-tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
+tg://proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
 tg://proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
