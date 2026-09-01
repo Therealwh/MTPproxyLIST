@@ -1,14 +1,14 @@
 # Verified RU Proxies (9)
-# Updated: 2026-08-31 20:59:44 UTC
+# Updated: 2026-09-01 00:33:07 UTC
 # Method: TCP_OK
-# Best ping: 0.104s
+# Best ping: 0.215s
 
-tg://proxy?server=cdn.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf811795766b2e636f6d
-tg://proxy?server=contritely.cut.disciform.compinoy.com&port=443&secret=eed7abff44c24e65099644a6c4c04d5a35647a656e2e7275
-tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
 tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
-tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
+tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
 tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
+tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
+tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
+tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275
+tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
