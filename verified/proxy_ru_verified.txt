@@ -1,14 +1,12 @@
-# Verified RU Proxies (9)
-# Updated: 2026-09-02 21:39:43 UTC
+# Verified RU Proxies (7)
+# Updated: 2026-09-02 23:34:30 UTC
 # Method: TCP_OK
-# Best ping: 0.132s
+# Best ping: 0.137s
 
-tg://proxy?server=132.243.235.189&port=443&secret=ee580a561631a7217d4a0607bb2be8930e79616e6465782e7275
-tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275
-tg://proxy?server=89.125.113.155&port=443&secret=ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275
-tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+tg://proxy?server=132.243.235.188&port=443&secret=eecff01a06513433100e81c6eadff452e779616e6465782e7275
+tg://proxy?server=89.125.113.11&port=443&secret=ee4940b07f14b94037fd71a766011bb0c079616e6465782e7275
+tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
+tg://proxy?server=intercom.mope.stoppage.teleseryestv.com&port=443&secret=eee9b3d6538064741ec64e9611e309065a647a656e2e7275
 tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
-tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
-tg://proxy?server=s4.assetflux.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
-tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=lazeyka-2-5.getvelora.space&port=443&secret=ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275
