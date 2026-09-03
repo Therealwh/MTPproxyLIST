@@ -1,11 +1,13 @@
-# Verified RU Proxies (6)
-# Updated: 2026-09-03 11:35:57 UTC
+# Verified RU Proxies (8)
+# Updated: 2026-09-03 15:13:07 UTC
 # Method: TCP_OK
-# Best ping: 0.154s
+# Best ping: 0.141s
 
-tg://proxy?server=147.45.42.104&port=443&secret=ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d
-tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
-tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275
+tg://proxy?server=147.45.68.59&port=443&secret=eeea62717efcf6c6c3beba94b1f8a4166a766b2e636f6d
+tg://proxy?server=89.125.113.11&port=443&secret=ee4940b07f14b94037fd71a766011bb0c079616e6465782e7275
+tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
+tg://proxy?server=89.125.113.155&port=443&secret=ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275
+tg://proxy?server=s4.assetflux.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=lazeyka-2-5.getvelora.space&port=443&secret=ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275
-tg://proxy?server=cdn3.cdnwave.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
+tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
