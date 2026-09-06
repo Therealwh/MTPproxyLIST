@@ -1,10 +1,6 @@
-# Verified RU Proxies (5)
-# Updated: 2026-09-06 17:44:02 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-09-06 19:36:11 UTC
 # Method: TCP_OK
-# Best ping: 0.087s
+# Best ping: 0.136s
 
-tg://proxy?server=132.243.235.189&port=443&secret=ee580a561631a7217d4a0607bb2be8930e79616e6465782e7275
-tg://proxy?server=153.76.122.15&port=443&secret=ee79612e7275304970b1b892abfa2b66
-tg://proxy?server=78.17.71.42&port=443&secret=eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275
-tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=bella-cook.com&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
+tg://proxy?server=132.243.235.197&port=443&secret=ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275
