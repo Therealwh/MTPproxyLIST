@@ -1,7 +1,8 @@
-# Verified RU Proxies (2)
-# Updated: 2026-09-07 01:14:50 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-09-07 06:11:20 UTC
 # Method: TCP_OK
-# Best ping: 0.145s
+# Best ping: 0.159s
 
-tg://proxy?server=132.243.235.189&port=443&secret=ee580a561631a7217d4a0607bb2be8930e79616e6465782e7275
-tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
+tg://proxy?server=147.45.42.104&port=443&secret=ee8905c5cfeaffb1fc2f7aa33e5c99df3d766b2e636f6d
+tg://proxy?server=89.125.113.8&port=443&secret=eeb9e6c48a8244eecdb64a7422108aebeb79616e6465782e7275
+tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
