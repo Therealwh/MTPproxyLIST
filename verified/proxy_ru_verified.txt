@@ -1,8 +1,8 @@
 # Verified RU Proxies (3)
-# Updated: 2026-09-09 11:58:07 UTC
+# Updated: 2026-09-09 16:30:36 UTC
 # Method: TCP_OK
-# Best ping: 0.097s
+# Best ping: 0.125s
 
-tg://proxy?server=132.243.235.143&port=443&secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275
-tg://proxy?server=89.125.113.155&port=443&secret=ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275
-tg://proxy?server=mt-open.potatoe.shop&port=443&secret=ee7cf78432ed09666cb056843c092a9af56164732e78352e7275
+tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
+tg://proxy?server=45.80.229.214&port=443&secret=ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275
+tg://proxy?server=proxy1.vpn-bot.pw&port=443&secret=ee2a0af9cd1f708bde1c06551ed073ae9277696c64626572726965732e7275
