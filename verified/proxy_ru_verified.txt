@@ -1,8 +1,7 @@
-# Verified RU Proxies (3)
-# Updated: 2026-09-10 17:14:59 UTC
+# Verified RU Proxies (2)
+# Updated: 2026-09-10 19:48:49 UTC
 # Method: TCP_OK
-# Best ping: 0.162s
+# Best ping: 0.093s
 
-tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
-tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
+tg://proxy?server=2.27.25.192&port=443&secret=ee038521d3753473464064e3bb49abadb26d61696c2e7275
 tg://proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
