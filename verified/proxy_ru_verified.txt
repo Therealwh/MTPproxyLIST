@@ -1,10 +1,12 @@
-# Verified RU Proxies (5)
-# Updated: 2026-09-15 00:40:20 UTC
+# Verified RU Proxies (7)
+# Updated: 2026-09-15 05:26:00 UTC
 # Method: TCP_OK
-# Best ping: 0.117s
+# Best ping: 0.123s
 
-tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
-tg://proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=granite.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275
+tg://proxy?server=51.250.84.196&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
+tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+tg://proxy?server=granite.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
