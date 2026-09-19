@@ -1,8 +1,9 @@
-# Verified RU Proxies (3)
-# Updated: 2026-09-19 14:00:08 UTC
+# Verified RU Proxies (4)
+# Updated: 2026-09-19 17:12:45 UTC
 # Method: TCP_OK
-# Best ping: 0.201s
+# Best ping: 0.139s
 
-tg://proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
+tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275
+tg://proxy?server=91.108.189.184&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=granite.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
