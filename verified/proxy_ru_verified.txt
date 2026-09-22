@@ -1,7 +1,7 @@
 # Verified RU Proxies (2)
-# Updated: 2026-09-22 17:13:45 UTC
+# Updated: 2026-09-22 20:13:52 UTC
 # Method: TCP_OK
-# Best ping: 0.149s
+# Best ping: 0.13s
 
-tg://proxy?server=he.18.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=89.169.173.127&port=443&secret=ee0f8e5e42ea0dd0f9639d851090e69760617669746f2e7275
+tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d
+tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
