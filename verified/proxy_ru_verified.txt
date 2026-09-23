@@ -1,8 +1,11 @@
-# Verified RU Proxies (3)
-# Updated: 2026-09-23 12:17:36 UTC
+# Verified RU Proxies (6)
+# Updated: 2026-09-23 17:24:30 UTC
 # Method: TCP_OK
-# Best ping: 0.172s
+# Best ping: 0.094s
 
-tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275
-tg://proxy?server=granite.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=150.241.68.141&port=443&secret=eedde11061a48b7ba74b71d20fa24e8a9379616e6465782e7275
+tg://proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275
+tg://proxy?server=obhod.wearvpn.online&port=443&secret=eed535581418ca0f4c1c7707a406db91d079616e6465782e7275
+tg://proxy?server=bella-cook.com&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
+tg://proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
