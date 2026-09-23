@@ -1,8 +1,6 @@
-# Verified RU Proxies (3)
-# Updated: 2026-09-23 20:38:02 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-09-23 23:12:06 UTC
 # Method: TCP_OK
-# Best ping: 0.137s
+# Best ping: 0.134s
 
-tg://proxy?server=45.150.110.32&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
-tg://proxy?server=edge.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=annexationist.barometrically.rudderpost.pinoywebtv.com&port=443&secret=ee08a86cc796e4874ed8a451a8f7f00964647a656e2e7275
+tg://proxy?server=91.108.189.184&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
