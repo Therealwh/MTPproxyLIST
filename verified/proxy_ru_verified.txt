@@ -1,9 +1,8 @@
-# Verified RU Proxies (4)
-# Updated: 2026-09-29 16:08:39 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-09-29 20:50:03 UTC
 # Method: TCP_OK
-# Best ping: 0.09s
+# Best ping: 0.118s
 
-tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275
-tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
-tg://proxy?server=intercom.mope.stoppage.teleseryestv.com&port=443&secret=eee9b3d6538064741ec64e9611e309065a647a656e2e7275
+tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
+tg://proxy?server=proxy13.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=became.dissenter.houseless.observed.reminiscent.ugara.net&port=18384&secret=ee6d51b6b69a15c40867d5c588bfd0a96b647a656e2e7275
