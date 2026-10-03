@@ -1,10 +1,8 @@
-# Verified RU Proxies (5)
-# Updated: 2026-10-03 11:24:44 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-10-03 15:12:33 UTC
 # Method: TCP_OK
-# Best ping: 0.136s
+# Best ping: 0.146s
 
-tg://proxy?server=78.17.71.42&port=443&secret=eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275
-tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
-tg://proxy?server=89.169.173.127&port=443&secret=ee0f8e5e42ea0dd0f9639d851090e69760617669746f2e7275
-tg://proxy?server=proxy-de.wearvpn.online&port=443&secret=eee707742c789a4d4551f7f13c07fe7a31766b2e7275
-tg://proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=132.243.235.197&port=443&secret=ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275
+tg://proxy?server=sosally.net&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
+tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
