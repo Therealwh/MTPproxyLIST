@@ -1,9 +1,6 @@
-# Verified RU Proxies (4)
-# Updated: 2026-10-03 00:31:33 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-10-03 05:47:19 UTC
 # Method: TCP_OK
-# Best ping: 0.107s
+# Best ping: 0.124s
 
-tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275
-tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
-tg://proxy?server=89.125.113.11&port=443&secret=ee4940b07f14b94037fd71a766011bb0c079616e6465782e7275
-tg://proxy?server=athematic.mydriasis.paco.steatoma.warring.lamidix.com&port=1450&secret=eec94ed77bf66cc3866481beb8cff1fdf0647a656e2e7275
+tg://proxy?server=193.233.88.103&port=443&secret=eea3de94e6a3963f34ab8e050e6696a502647a656e2e7275
