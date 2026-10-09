@@ -1,7 +1,7 @@
 # Verified RU Proxies (2)
-# Updated: 2026-10-09 01:05:25 UTC
+# Updated: 2026-10-09 07:25:14 UTC
 # Method: TCP_OK
-# Best ping: 0.094s
+# Best ping: 0.157s
 
-tg://proxy?server=132.243.235.197&port=443&secret=ee284388d5f6d5c468daaeb9b9fa2b01b179616e6465782e7275
-tg://proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275
+tg://proxy?server=lpnrobot.lpnproxy.xyz&port=443&secret=ee8a673ad173ad5f6424e2988d78203da579616e6465782e7275
+tg://proxy?server=sosally.net&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
