@@ -1,13 +1,9 @@
-# Verified RU Proxies (8)
-# Updated: 2026-10-11 23:41:23 UTC
+# Verified RU Proxies (4)
+# Updated: 2026-10-12 02:40:06 UTC
 # Method: TCP_OK
-# Best ping: 0.11s
+# Best ping: 0.154s
 
-tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275
-tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
-tg://proxy?server=84.252.100.26&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=proxtstar.live&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=intercom.mope.stoppage.teleseryestv.com&port=443&secret=eee9b3d6538064741ec64e9611e309065a647a656e2e7275
-tg://proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
+tg://proxy?server=150.241.70.0&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275
+tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
+tg://proxy?server=93.77.165.1&port=443&secret=ee9f9c9180dbe1d442fbe689aed524f60f617669746f2e7275
+tg://proxy?server=granite.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
