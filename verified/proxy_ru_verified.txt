@@ -1,10 +1,9 @@
-# Verified RU Proxies (5)
-# Updated: 2026-10-15 22:36:48 UTC
+# Verified RU Proxies (4)
+# Updated: 2026-10-16 00:47:59 UTC
 # Method: TCP_OK
-# Best ping: 0.093s
+# Best ping: 0.156s
 
-tg://proxy?server=2.27.22.228&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e72757f81f31151d7
-tg://proxy?server=5.35.90.195&port=443&secret=ee235bd4d18544573e9438a7086cf4c2756f7a6f6e2e7275
+tg://proxy?server=2.26.98.223&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
+tg://proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275
+tg://proxy?server=bella-cook.com&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
 tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=night.vtoroe-dyhanie.space&port=443&secret=ee712aff3bb7aa86eefc4eda95d8aef21f79612e7275
