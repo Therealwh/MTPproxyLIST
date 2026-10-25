@@ -1,8 +1,6 @@
-# Verified RU Proxies (3)
-# Updated: 2026-10-24 21:47:57 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-10-25 00:08:17 UTC
 # Method: TCP_OK
-# Best ping: 0.046s
+# Best ping: 0.147s
 
-tg://proxy?server=obhod.wearvpn.online&port=443&secret=eed535581418ca0f4c1c7707a406db91d079616e6465782e7275
-tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
-tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
