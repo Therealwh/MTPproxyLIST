@@ -1,13 +1,12 @@
-# Verified RU Proxies (8)
-# Updated: 2026-10-28 15:08:24 UTC
+# Verified RU Proxies (7)
+# Updated: 2026-10-28 20:17:52 UTC
 # Method: TCP_OK
-# Best ping: 0.116s
+# Best ping: 0.087s
 
-tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
-tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
-tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e7275450845a3ade2
-tg://proxy?server=mtproto.ONLINE&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
-tg://proxy?server=artist.stereotyper.upborn.teleseryestvheaven.com&port=443&secret=ee73fde7d2db16c799e6a8e203c12e97a2647a656e2e7275
-tg://proxy?server=he.18.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=proxy-ru.wearvpn.online&port=443&secret=ee095b4c07061fa18ae9374091be8a8c4e79616e6465782e7275
+tg://proxy?server=82.40.49.99&port=443&secret=ee94506e2d9fd384a8df9249305ccd0a3962726f777365722e79616e6465782e636f6d
+tg://proxy?server=144.31.221.60&port=443&secret=ee254d5a268e3496e39ac6ece61d6ef89b766b2e636f6d
+tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
+tg://proxy?server=athematic.mydriasis.paco.steatoma.warring.lamidix.com&port=1450&secret=eec94ed77bf66cc3866481beb8cff1fdf0647a656e2e7275
+tg://proxy?server=rdp.nl.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=annexationist.barometrically.rudderpost.pinoywebtv.com&port=443&secret=ee08a86cc796e4874ed8a451a8f7f00964647a656e2e7275
