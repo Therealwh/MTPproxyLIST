@@ -1,8 +1,11 @@
-# Verified RU Proxies (3)
-# Updated: 2026-11-02 23:42:13 UTC
+# Verified RU Proxies (6)
+# Updated: 2026-11-03 04:03:47 UTC
 # Method: TCP_OK
-# Best ping: 0.151s
+# Best ping: 0.092s
 
+tg://proxy?server=45.150.110.32&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
 tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
-tg://proxy?server=he.de-nu.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=heliophobic.radiotelephone.surreptitious.teleseryegroup.com&port=443&secret=ee0f26619fbe2ac1789e3c9c8f30436c2f647a656e2e7275
+tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
+tg://proxy?server=93.77.165.1&port=443&secret=ee9f9c9180dbe1d442fbe689aed524f60f617669746f2e7275
 tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
