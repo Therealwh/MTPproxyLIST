@@ -1,12 +1,10 @@
-# Verified RU Proxies (7)
-# Updated: 2026-11-07 15:36:13 UTC
+# Verified RU Proxies (5)
+# Updated: 2026-11-07 19:38:52 UTC
 # Method: TCP_OK
-# Best ping: 0.132s
+# Best ping: 0.026s
 
-tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
-tg://proxy?server=150.241.68.141&port=443&secret=eedde11061a48b7ba74b71d20fa24e8a9379616e6465782e7275
-tg://proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275
+tg://proxy?server=proxy-de.wearvpn.online&port=443&secret=eee707742c789a4d4551f7f13c07fe7a31766b2e7275
+tg://proxy?server=132.243.235.143&port=443&secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275
+tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
 tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
 tg://proxy?server=citrus.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
-tg://proxy?server=proxy17.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
