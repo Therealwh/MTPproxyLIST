@@ -1,8 +1,6 @@
-# Verified RU Proxies (3)
-# Updated: 2026-11-06 22:16:30 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-11-07 02:15:13 UTC
 # Method: TCP_OK
-# Best ping: 0.094s
+# Best ping: 0.107s
 
-tg://proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
 tg://proxy?server=citrus.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
-tg://proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
