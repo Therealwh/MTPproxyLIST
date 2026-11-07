@@ -1,6 +1,8 @@
-# Verified RU Proxies (1)
-# Updated: 2026-11-07 02:15:13 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-11-07 08:56:17 UTC
 # Method: TCP_OK
-# Best ping: 0.107s
+# Best ping: 0.207s
 
+tg://proxy?server=became.dissenter.houseless.observed.reminiscent.ugara.net&port=18384&secret=ee6d51b6b69a15c40867d5c588bfd0a96b647a656e2e7275
+tg://proxy?server=15.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=citrus.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
