@@ -1,9 +1,9 @@
 # Verified RU Proxies (4)
-# Updated: 2026-11-08 16:22:15 UTC
+# Updated: 2026-11-08 20:42:54 UTC
 # Method: TCP_OK
-# Best ping: 0.121s
+# Best ping: 0.144s
 
+tg://proxy?server=93.185.167.212&port=443&secret=ee1c88677acf461e09e68f4ff0cef5724a617669746f2e7275
+tg://proxy?server=cloud.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=citrus.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
-tg://proxy?server=89.125.113.8&port=443&secret=eeb9e6c48a8244eecdb64a7422108aebeb79616e6465782e7275
-tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=ihkljklk.etherealvpn.uk&port=443&secret=eebfee6bc937ce40159186de7ece967a95617669746f2e7275
