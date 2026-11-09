@@ -103,7 +103,7 @@ python main.py --top 200 --workers 150 --timeout 3.0 --output-dir verified
 🤖 **TG-бот** — управление сервером из мессенджера<br>
 🔄 **Авто-лечение** — перезапуск и ротация доменов<br>
 
-[![Panel](https://img.shields.io/badge/🚀_ОТКРЫТЬ_ПАНЕЛЬ-TG-BOT_&_PANEL-FFC53D?style=for-the-badge&logo=github)](https://github.com/Therealwh/Web-Proxy-Telegram-Panel-TG-BOT)
+[![Panel](https://img.shields.io/badge/%F0%9F%9A%80%20%D0%9E%D0%A2%D0%9A%D0%A0%D0%AB%D0%A2%D0%AC%20%D0%9F%D0%90%D0%9D%D0%95%D0%9B%D0%AC-TG%20BOT%20%26%20PANEL-FFC53D?style=for-the-badge&logo=github)](https://github.com/Therealwh/Web-Proxy-Telegram-Panel-TG-BOT)
 
 </td>
 </tr>
