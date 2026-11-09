@@ -66,12 +66,70 @@ python main.py --top 200 --workers 150 --timeout 3.0 --output-dir verified
 
 ---
 
+<div align="center">
+
+&nbsp;
+
+# 🚀 Хочешь свой собственный прокси?
+
+**Забудь о чужих списках — подними свой личный MTProto-сервер за 5 минут!**
+
+&nbsp;
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🌐 WEB MTProto Proxy
+
+*Максимум скорости и скрытности*
+
+✅ **FakeTLS** — маскировка под обычный HTTPS<br>
+🛡 **Обход DPI** — работает даже при жёстких блокировках<br>
+⚡ **Порт 443** — неотличим от обычного веб-трафика<br>
+🖥 **Web-панель** — управление прямо из браузера<br>
+
+[![Deploy](https://img.shields.io/badge/🚀_ОТКРЫТЬ_WEB_MTPROTO-Web--MTProto--Proxy-2AABEE?style=for-the-badge&logo=github)](https://github.com/Therealwh/Web-MTProto-Proxy)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🤖 MTProto + Telegram Панель
+
+*Максимум удобства и контроля*
+
+👥 **Мульти-пользователь** — лимиты, квоты, QR-коды<br>
+📊 **Статистика** — графики и мониторинг в реальном времени<br>
+🤖 **TG-бот** — управление сервером из мессенджера<br>
+🔄 **Авто-лечение** — перезапуск и ротация доменов<br>
+
+[![Panel](https://img.shields.io/badge/🚀_ОТКРЫТЬ_ПАНЕЛЬ-TG-BOT_&_PANEL-FFC53D?style=for-the-badge&logo=github)](https://github.com/Therealwh/Web-Proxy-Telegram-Panel-TG-BOT)
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+### 💎 Один клик — и у тебя свой прокси, который никто не отберёт
+
+[![Get Started](https://img.shields.io/badge/⭐_Собери_свой_прокси_сегодня-Web--Proxy--Telegram--Panel--TG--BOT-7C5CFF?style=for-the-badge&logo=telegram)](https://github.com/Therealwh/Web-Proxy-Telegram-Panel-TG-BOT)
+
+&nbsp;
+
+</div>
+
+---
+
 ## 🇬🇧 English
 
 **Auto-updated list of live MTProto proxies for Telegram.** A collector runs every 15 minutes via GitHub Actions: gathers candidates from public sources, verifies each with a real MTProto connection through Telethon (150 workers, 3s timeout), and commits only working servers to `verified/`.
 
 - Free proxy bot: [@webproxy_tgrobot](https://t.me/webproxy_tgrobot) · Premium: [@webproxy_panel_bot](https://t.me/webproxy_panel_bot)
 - Web MTProto version: [Web-MTProto-Proxy](https://github.com/Therealwh/Web-MTProto-Proxy)
+
+> 🚀 **Want your own proxy?** Deploy your personal MTProto server in 5 minutes — with a web panel and Telegram bot:
+> 👉 **[Web-Proxy-Telegram-Panel-TG-BOT](https://github.com/Therealwh/Web-Proxy-Telegram-Panel-TG-BOT)**
 
 ## ⚖️ Disclaimer
 
