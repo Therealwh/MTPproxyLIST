@@ -1,10 +1,8 @@
-# Verified RU Proxies (5)
-# Updated: 2026-11-10 00:36:21 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-11-10 07:46:52 UTC
 # Method: TCP_OK
-# Best ping: 0.147s
+# Best ping: 0.113s
 
-tg://proxy?server=45.80.229.214&port=443&secret=ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275
+tg://proxy?server=31.59.103.64&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=citrus.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
-tg://proxy?server=edge.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=proxy14.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=ihkljklk.etherealvpn.uk&port=443&secret=eebfee6bc937ce40159186de7ece967a95617669746f2e7275
+tg://proxy?server=91.108.239.183&port=443&secret=eef81f5fd0c6260f6889368dde8cb3cc9b79616e6465782e7275
