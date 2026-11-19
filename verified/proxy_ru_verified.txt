@@ -1,17 +1,26 @@
-# Verified RU Proxies (12)
-# Updated: 2026-11-18 23:31:16 UTC
+# Verified RU Proxies (21)
+# Updated: 2026-11-19 04:32:45 UTC
 # Method: TCP_OK
-# Best ping: 0.123s
+# Best ping: 0.117s
 
-tg://proxy?server=skymoon.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275
-tg://proxy?server=foxfrost.heronglade.space&port=8443&secret=eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275
-tg://proxy?server=lilythistle.heronglade.space&port=8443&secret=eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275
-tg://proxy?server=toga43.sorrelbay.xyz&port=8443&secret=eef17c22a56cac8bd46d12b91f8f9e102f62726f777365722e79616e6465782e7275
-tg://proxy?server=89.125.113.155&port=443&secret=ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275
-tg://proxy?server=galaxy.heronglade.space&port=443&secret=eedac1697485fe37f9c1435848f8ec2ff5786170692e6f7a6f6e2e7275
-tg://proxy?server=176.12.69.32&port=443&secret=ee79612e72758e84feb907475118033d
+tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d
+tg://proxy?server=dema91.larchmere.xyz&port=443&secret=ee58851f6640315bea58279e83ed6ca84c786170692e6f7a6f6e2e7275
+tg://proxy?server=misu42.copperwren.click&port=443&secret=eebeb3cc6e60d47ebe83eccee3c0475a47786170692e6f7a6f6e2e7275
 tg://proxy?server=gakany71.ashwren.xyz&port=443&secret=eef17c22a56cac8bd46d12b91f8f9e102f786170692e6f7a6f6e2e7275
-tg://proxy?server=gade59.kelpmoor.xyz&port=443&secret=eef17c22a56cac8bd46d12b91f8f9e102f6f7a6f6e2e7275
+tg://proxy?server=galaxy.heronglade.space&port=443&secret=eedac1697485fe37f9c1435848f8ec2ff5786170692e6f7a6f6e2e7275
 tg://proxy?server=pomi46.kelpmoor.xyz&port=8443&secret=eef17c22a56cac8bd46d12b91f8f9e102f62726f777365722e79616e6465782e7275
+tg://proxy?server=gade59.kelpmoor.xyz&port=443&secret=eef17c22a56cac8bd46d12b91f8f9e102f6f7a6f6e2e7275
+tg://proxy?server=foxfrost.heronglade.space&port=8443&secret=eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275
+tg://proxy?server=athematic.mydriasis.paco.steatoma.warring.lamidix.com&port=1450&secret=eec94ed77bf66cc3866481beb8cff1fdf0647a656e2e7275
+tg://proxy?server=neka92.larchmere.xyz&port=8443&secret=eeb26dd44a039e6125d490c0aeaa262559786170692e6f7a6f6e2e7275
+tg://proxy?server=tomi60.ashwren.xyz&port=443&secret=ee8a22a2efc31d03cfe33e7dc2abb809db6f7a6f6e2e7275
+tg://proxy?server=deto84.larchmere.xyz&port=8443&secret=ee3295597e6c795e6a1a4b0a1231aec821786170692e6f7a6f6e2e7275
+tg://proxy?server=skymoon.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275
+tg://proxy?server=gagasu90.copperfinch.top&port=443&secret=ee3dd96613c02e8e9864bc2b3fa6b4a84a786170692e6f7a6f6e2e7275
+tg://proxy?server=toga43.sorrelbay.xyz&port=8443&secret=eef17c22a56cac8bd46d12b91f8f9e102f62726f777365722e79616e6465782e7275
+tg://proxy?server=zolole21.larchmere.xyz&port=8443&secret=eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275
+tg://proxy?server=rimi88.fernlark.xyz&port=8443&secret=ee3e175e0503b04fc22a65e6b6b60d5d9c786170692e6f7a6f6e2e7275
+tg://proxy?server=mile20.sorrelbay.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275
+tg://proxy?server=s3.fluctuation.online&port=443&secret=eedd345afe9188a4e5a94dc706e1aa6cef78352e7275
+tg://proxy?server=lilythistle.heronglade.space&port=8443&secret=eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275
 tg://proxy?server=stormlaurel.heronglade.space&port=443&secret=eedac1697485fe37f9c1435848f8ec2ff5786170692e6f7a6f6e2e7275
-tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
