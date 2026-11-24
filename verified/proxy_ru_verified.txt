@@ -1,20 +1,21 @@
-# Verified RU Proxies (15)
-# Updated: 2026-11-24 00:44:00 UTC
+# Verified RU Proxies (16)
+# Updated: 2026-11-24 10:28:36 UTC
 # Method: TCP_OK
-# Best ping: 0.154s
+# Best ping: 0.106s
 
-tg://proxy?server=132.243.235.143&port=443&secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275
-tg://proxy?server=pine.heronglade.space&port=8443&secret=ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275
-tg://proxy?server=poneny87.sorrelbay.xyz&port=8443&secret=eed9f17e3daed2eba291d36ea30d9aded8786170692e6f7a6f6e2e7275
-tg://proxy?server=origin.mossharbor.xyz&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275
-tg://proxy?server=loga86.sorrelbay.xyz&port=8443&secret=eee38448c7e07ec8d42dfb2ca4d668b790617669746f2e7275
-tg://proxy?server=susu87.sorrelbay.xyz&port=8443&secret=eea642c4bcbaceb5aa415464da57a03a37617669746f2e7275
-tg://proxy?server=lelo74.kelpmoor.xyz&port=443&secret=eee38448c7e07ec8d42dfb2ca4d668b79062726f777365722e79616e6465782e7275
-tg://proxy?server=rimira82.ashwren.xyz&port=443&secret=eed9f17e3daed2eba291d36ea30d9aded862726f777365722e79616e6465782e7275
-tg://proxy?server=contritely.cut.disciform.compinoy.com&port=443&secret=eed7abff44c24e65099644a6c4c04d5a35647a656e2e7275
-tg://proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275
+tg://proxy?server=45.38.23.169&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
+tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
 tg://proxy?server=delede54.sorrelbay.xyz&port=8443&secret=eefa048bc9fcc498244c3c7c8b2c2388d5786170692e6f7a6f6e2e7275
-tg://proxy?server=gagasu90.copperfinch.top&port=443&secret=ee3dd96613c02e8e9864bc2b3fa6b4a84a786170692e6f7a6f6e2e7275
-tg://proxy?server=he.de-nu.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=lilythistle.heronglade.space&port=8443&secret=eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275
+tg://proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275
+tg://proxy?server=susu87.sorrelbay.xyz&port=8443&secret=eea642c4bcbaceb5aa415464da57a03a37617669746f2e7275
+tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e7275450845a3ade2
+tg://proxy?server=gade59.kelpmoor.xyz&port=443&secret=eef17c22a56cac8bd46d12b91f8f9e102f6f7a6f6e2e7275
+tg://proxy?server=nega52.ashwren.xyz&port=443&secret=eeebf9726b89cc8ca940357d833f491a04786170692e6f7a6f6e2e7275
+tg://proxy?server=a03.lovely.lat&port=443&secret=ee68d6a83140657a1c7bf8e64d98ce9432786170692e6f7a6f6e2e7275
+tg://proxy?server=loga86.sorrelbay.xyz&port=8443&secret=eee38448c7e07ec8d42dfb2ca4d668b790617669746f2e7275
+tg://proxy?server=pomi46.kelpmoor.xyz&port=8443&secret=eef17c22a56cac8bd46d12b91f8f9e102f62726f777365722e79616e6465782e7275
+tg://proxy?server=poneny87.sorrelbay.xyz&port=8443&secret=eed9f17e3daed2eba291d36ea30d9aded8786170692e6f7a6f6e2e7275
 tg://proxy?server=makasu60.amberreed.top&port=443&secret=eec95ef2f2193afa5ec0abe73fb7e3ec3c786170692e6f7a6f6e2e7275
+tg://proxy?server=rimira82.ashwren.xyz&port=443&secret=eed9f17e3daed2eba291d36ea30d9aded862726f777365722e79616e6465782e7275
+tg://proxy?server=proxy14.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=lelo74.kelpmoor.xyz&port=443&secret=eee38448c7e07ec8d42dfb2ca4d668b79062726f777365722e79616e6465782e7275
